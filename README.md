@@ -1,1 +1,1 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+Diese kleine Homepage stellt Materialien für mein Mixed-Methods-Seminar bereit, das ich im FS2020 an der Uni Zürich halte.
