@@ -1,0 +1,18 @@
+--- 
+title: "Mixed Methods - eine Einführung"
+author: "Ken Horvath"
+date: ""
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Multimethodische Forschung in den Sozialwissenschaften."
+---
+
+# Mixed Methods: multimethodisch forschen in den Sozialwissenschaften {-}
+
+Mixed Methods haben sich in den letzten Jahren als eigenständiges Feld der sozialwissenschaftlichen Methodenentwicklung und -diskussion etabliert. Eigenständig bedeutet aber nicht homogen und erst recht nicht geschlossen: Der vage Begriff der Mixed Methods bezeichnet vielmehr ein heterogenes und dynamisches Gefüge an methodologischen Perspektiven und Positionen.
+
+Vor diesem Hintergrund führen die folgenden Seiten systematisch in die Logiken und Techniken multimethodischer Forschung ein. So vielfältig das Feld von Mixed Methods, so zahlreich sind auch die Möglichkeiten, damit vertraut zu werden. Der hier eingeschlagene Weg versucht zwei Ziele miteinander zu kombinieren: (1) einen möglichst umfassenden Überblick zu geben und (2) auf für ein grundlegendes Verständnis wichtige, aber häufig nur unter der Oberfläche abgehandelte Aspekte aufmerksam zu machen. 
+

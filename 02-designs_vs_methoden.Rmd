@@ -1,0 +1,18 @@
+# Designs und Methoden 
+
+## Zwei Kompetenzen: eine Annäherung 
+
+- Methoden als Werkzeuge
+- Methoden als Wege zu einem Ziel
+
+## Designs: zwischen Logik und Logistik
+
+- Abstraktion und Verallgemeinerung
+- Design als Metapher
+
+## Drei Grunddesigns
+
+- Vorwissen/Annahmen
+- Voraussetzungen 
+- Generalisierungsstrategie 
+- Häufige Probleme in der Praxis 

@@ -1,0 +1,39 @@
+# Einführung und Überblick {#intro}
+
+## Wozu Mixed Methods? 
+
+Es gibt keine allgemein verbindliche Definition von Mixed Methods. In einer ersten Annäherung wird häufig darauf verwiesen, dass in Mixed Methods Studien qualitative und quantitative Methoden kombiniert werden. Diese erste Annäherung ist hilfreich, weil sie auf zentrale Herausforderungen hinweist. Sie kann aber auch irreführend sein, weil die Trennlinie zwischen qualitativen und quantitativen Methoden nicht so klar zu ziehen ist, wie man glauben möchte, und weil sie von zum Teil beträchtlichen Unterschieden innerhalb der beiden vermeintlichen Lager ablenkt. 
+
+Wer sich näher mit Mixed Methods beschäftigen will, muss daher über diese erste Bestimmung über die Kombination von qualitativ und quantitativ hinausgehen. Bei näherer Betrachtung zeigen sich aber eine Reihe anderer relevanter Eigenheiten: 
+
+- Das entscheidende Anliegen von Mixed Methods wird meist darin gesehen, dem Gegenstand und der Zielsetzung angemessene Forschungsprozesse zu gestalten. 
+- Im Vergleich zum nach wie vor starken "Werkzeugkasten-Denken" in anderen Bereichen der Methodenlehre und -entwicklung rückt im Feld von Mixed Methods der Fokus auf Designfragen -- und damit auch auf grundlegende Logiken und wissenschaftstheoretische Grundlagen empirischer Forschung.
+- Die Orientierung auf Angemessenheit und Designfragen spiegelt sich in der expliziten Anerkennung der Rolle von Forschungsfragen wider.
+
+Diese und andere Eigenheiten markieren letztlich sozialwissenschaftliche Grundkompetenzen, für die in der Methodenlehre häufig zu wenig Zeit bleibt. Der wichtigste Zweck der Beschäftigung mit Mixed Methods liegt darin, diese Kompetenzen zu trainieren. Diese Kompetenzen sind nützlich, selbst wenn aktuell kein eigenes qualitativ-plus-quantitatives Forschungsprojekt am Plan steht. Denn erstens können sie auch in rein qualitativen und rein quantitativen Projekten zu bewussteren Gestaltung von kohärenten und produktiven Forschungsprozessen beitragen. Zweitens geht es in den Sozialwissenschaften auch darum, mit den Forschungsarbeiten anderer umgehen zu können. Mixed Methods stehen in diesem Sinn auch für die Aneignung einer Rezeptionskompetenz: verstehen, was andere Forschende tun, und sich aktiv auf ihre Ergebnisse beziehen können. 
+
+
+## Inhalte im Überblick 
+
+Die vorliegende Einführung tastet sich von eher abstrakten Grundlagenfragen schrittweise zu konkreten Forschungsszenarien vor. Die folgenden Themen werden behandelt: 
+
+1. **Mixed Methods und die Unterscheidung von qualitativen und quantitativen Methoden**: Die Unterscheidung von qualitativ und quantitativ ist für Mixed Methods von zentraler Bedeutung. Diese Unterscheidung ist einerseits irreführend, anderereits aber auch erhellend und in vielen Hinsichten angemessen. Ob sie sinnvoll ist oder nicht, ist letzten Endes eine Frage des Blickwinkels bzw. der Tiefenschärfe. 
+
+2. **Designs und Methoden -- *Logiken* und *Techniken* empirischer Forschung**: Für die Beschäftigung mit Mixed Methods ist die Differenzierung von Design- und Methodenfragen zentral. Mixed-Methods-Projekte sind häufig nicht nur multimethodisch, sondern kombinieren auch Facetten der drei sozialwissenschaftlichen Grunddesigns (Experiment, Erhebung, Fallstudie). Wer Methoden angemessen und bewusst verbinden will, muss auf beiden Ebenen über Forschung nachdenken und kommunizieren. 
+
+3. **Forschungsfragen und ihre Funktionen für die empirische Forschung**: Das zentrale Mantra der Mixed-Methods-Forschung besagt, dass die Forschungsfrage die Methodenwahl bestimmen soll. Aber wie genau ergeben sich *Methoden* aus einer *Frage*? Was macht eine (gute) Forschungsfrage eigentlich genau aus? Wieso sind sie wichtig? Und wie findet man sie?
+
+4. **Gegenstände und Ziele als zentrale Bezugspunkte**: Eine Antwort darauf, wie Forschungsfragen die Methoden bestimmen können, lautet: Weil Forschungsfragen den Gegenstand und die (Generalisierungs-)Ziele eines Projekts definieren. Es ist daher entscheidend, diese beiden Aspekte eines Forschungsvorhabens klar zu fassen. Zur Zieldefinition gehört auch, den Zweck der Methodenkombination beim Namen zu nennen (validieren, illustrieren, vertiefen, ergänzen ...). 
+
+5. **Mixed Methods systematisieren I -- Typologien**: Die Flexibilität, Adaptivität und Komplexität von Mixed Methods impliziert eine ungeheure Fülle an Möglichkeiten, wie ein konkretes Projekt aussehen kann. Typologien haben sich als eine von drei zentralen Wegen erwiesen, Ordnung in diese Vielfalt zu bringen. Entscheidend sind dabei die Kriterien, nach denen typologisiert wird. Die Identifikation eines passenden Typs von Mixed-Methods-Design kann helfen, um einen realistischen Weg zur Umsetzung eines Projekts zu finden. 
+
+6. **Mixed Methods systematisieren II -- Notationen**: Notationen sind neben Typologien eine zweite Möglichkeit, Mixed Methods systematisch darzustellen. Im Vergleich zu Typologien legen sie stärkeres Gewicht auf die grundlegende Logik eines Projekts. Sie sind zudem leicht zu verstehen und damit auch leicht zu kommunizieren. 
+
+7. **Mixed Methods systematisieren III -- Visualisierung**: Mixed-Methods-Projekte sind in aller Regel mehrstufig -- sie sind also in mehrere Komponenten gegliedert, die häufig in einer mehr oder weniger zwingendenden logischen Reihenfolge abzuarbeiten sind. Visualisierungen helfen, Prozesse und Logiken im Blick zu behalten. 
+
+8. **Varianten der Integration**: Anhand konkreter Beispiele lassen sich die verschiedenen Varianten leicht erfassen, wie in einem Forschungsprozess Methoden sinnvoll kombiniert werden können. Eine der wichtigsten Entscheidungen betrifft den Zeitpunkt der Integration: während der Datenproduktion oder in der Phase der Datenanalyse. 
+
+9. **Mixed Methods ohne Mixing**: Für kleinere Forschungsprojekte -- etwa für eine Bachelor- oder Masterarbeit -- ist es kaum realistisch machbar, mehrere Forschungsmethoden zu kombinieren. Das bedeutet aber nicht, dass man sich nicht von Mixed Methods inspirieren lassen kann. Es gibt verschiedene Wege, "sekundäre" Mixed-Methods-Projekte umzusetzen. 
+
+10. **Wissenschaftstheoretische Grundlagen -- ein Primer**: Im Vergleich zu traditionellen Feldern der Methodenentwicklung und Methodenlehre zeichnet sich das Feld der Mixed Methods auch durch eine erhöhte Sichtbarkeit von wissenschaftstheoretischen Fragen aus. Charakteristisch ist in diesem Zusammenhang, dass verschiedene epistemologische Programme als Bezugspunkte anerkannt werden. Ein grober Überblick h
+

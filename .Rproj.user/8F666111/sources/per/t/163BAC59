@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584631544147.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3594217576",
+    "id" : "163BAC59",
+    "lastKnownWriteTime" : 1584632380,
+    "last_content_update" : 1584632380244,
+    "path" : "~/ownCloud/Lehre/UZH/Online/MM_Book/06-systematisieren_typologien.Rmd",
+    "project_path" : "06-systematisieren_typologien.Rmd",
+    "properties" : {
+        "cursorPosition" : "21,51",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,409 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Mixed Methods - eine Einführung},
+  pdfauthor={Ken Horvath},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{Mixed Methods - eine Einführung}
+\author{Ken Horvath}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{mixed-methods-multimethodisch-forschen-in-den-sozialwissenschaften}{%
+\chapter*{Mixed Methods: multimethodisch forschen in den Sozialwissenschaften}\label{mixed-methods-multimethodisch-forschen-in-den-sozialwissenschaften}}
+\addcontentsline{toc}{chapter}{Mixed Methods: multimethodisch forschen in den Sozialwissenschaften}
+
+Mixed Methods haben sich in den letzten Jahren als eigenständiges Feld der sozialwissenschaftlichen Methodenentwicklung und -diskussion etabliert. Eigenständig bedeutet aber nicht homogen und erst recht nicht geschlossen: Der vage Begriff der Mixed Methods bezeichnet vielmehr ein heterogenes und dynamisches Gefüge an methodologischen Perspektiven und Positionen.
+
+Vor diesem Hintergrund führen die folgenden Seiten systematisch in die Logiken und Techniken multimethodischer Forschung ein. So vielfältig das Feld von Mixed Methods, so zahlreich sind auch die Möglichkeiten, damit vertraut zu werden. Der hier eingeschlagene Weg versucht zwei Ziele miteinander zu kombinieren: (1) einen möglichst umfassenden Überblick zu geben und (2) auf für ein grundlegendes Verständnis wichtige, aber häufig nur unter der Oberfläche abgehandelte Aspekte aufmerksam zu machen.
+
+\hypertarget{intro}{%
+\chapter{Einführung und Überblick}\label{intro}}
+
+\hypertarget{wozu-mixed-methods}{%
+\section{Wozu Mixed Methods?}\label{wozu-mixed-methods}}
+
+Es gibt keine allgemein verbindliche Definition von Mixed Methods. In einer ersten Annäherung wird häufig darauf verwiesen, dass in Mixed Methods Studien qualitative und quantitative Methoden kombiniert werden. Diese erste Annäherung ist hilfreich, weil sie auf zentrale Herausforderungen hinweist. Sie kann aber auch irreführend sein, weil die Trennlinie zwischen qualitativen und quantitativen Methoden nicht so klar zu ziehen ist, wie man glauben möchte, und weil sie von zum Teil beträchtlichen Unterschieden innerhalb der beiden vermeintlichen Lager ablenkt.
+
+Wer sich näher mit Mixed Methods beschäftigen will, muss daher über diese erste Bestimmung über die Kombination von qualitativ und quantitativ hinausgehen. Bei näherer Betrachtung zeigen sich aber eine Reihe anderer relevanter Eigenheiten:
+
+\begin{itemize}
+\tightlist
+\item
+  Das entscheidende Anliegen von Mixed Methods wird meist darin gesehen, dem Gegenstand und der Zielsetzung angemessene Forschungsprozesse zu gestalten.
+\item
+  Im Vergleich zum nach wie vor starken ``Werkzeugkasten-Denken'' in anderen Bereichen der Methodenlehre und -entwicklung rückt im Feld von Mixed Methods der Fokus auf Designfragen -- und damit auch auf grundlegende Logiken und wissenschaftstheoretische Grundlagen empirischer Forschung.
+\item
+  Die Orientierung auf Angemessenheit und Designfragen spiegelt sich in der expliziten Anerkennung der Rolle von Forschungsfragen wider.
+\end{itemize}
+
+Diese und andere Eigenheiten markieren letztlich sozialwissenschaftliche Grundkompetenzen, für die in der Methodenlehre häufig zu wenig Zeit bleibt. Der wichtigste Zweck der Beschäftigung mit Mixed Methods liegt darin, diese Kompetenzen zu trainieren. Diese Kompetenzen sind nützlich, selbst wenn aktuell kein eigenes qualitativ-plus-quantitatives Forschungsprojekt am Plan steht. Denn erstens können sie auch in rein qualitativen und rein quantitativen Projekten zu bewussteren Gestaltung von kohärenten und produktiven Forschungsprozessen beitragen. Zweitens geht es in den Sozialwissenschaften auch darum, mit den Forschungsarbeiten anderer umgehen zu können. Mixed Methods stehen in diesem Sinn auch für die Aneignung einer Rezeptionskompetenz: verstehen, was andere Forschende tun, und sich aktiv auf ihre Ergebnisse beziehen können.
+
+\hypertarget{inhalte-im-uxfcberblick}{%
+\section{Inhalte im Überblick}\label{inhalte-im-uxfcberblick}}
+
+Die vorliegende Einführung tastet sich von eher abstrakten Grundlagenfragen schrittweise zu konkreten Forschungsszenarien vor. Die folgenden Themen werden behandelt:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Mixed Methods und die Unterscheidung von qualitativen und quantitativen Methoden}: Die Unterscheidung von qualitativ und quantitativ ist für Mixed Methods von zentraler Bedeutung. Diese Unterscheidung ist einerseits irreführend, anderereits aber auch erhellend und in vielen Hinsichten angemessen. Ob sie sinnvoll ist oder nicht, ist letzten Endes eine Frage des Blickwinkels bzw. der Tiefenschärfe.
+\item
+  \textbf{Designs und Methoden -- \emph{Logiken} und \emph{Techniken} empirischer Forschung}: Für die Beschäftigung mit Mixed Methods ist die Differenzierung von Design- und Methodenfragen zentral. Mixed-Methods-Projekte sind häufig nicht nur multimethodisch, sondern kombinieren auch Facetten der drei sozialwissenschaftlichen Grunddesigns (Experiment, Erhebung, Fallstudie). Wer Methoden angemessen und bewusst verbinden will, muss auf beiden Ebenen über Forschung nachdenken und kommunizieren.
+\item
+  \textbf{Forschungsfragen und ihre Funktionen für die empirische Forschung}: Das zentrale Mantra der Mixed-Methods-Forschung besagt, dass die Forschungsfrage die Methodenwahl bestimmen soll. Aber wie genau ergeben sich \emph{Methoden} aus einer \emph{Frage}? Was macht eine (gute) Forschungsfrage eigentlich genau aus? Wieso sind sie wichtig? Und wie findet man sie?
+\item
+  \textbf{Von Gegenständen und Ziele als zentrale Bezugspunkte}:
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Gegenstände und Ziele
+\end{itemize}
+
+\hypertarget{mixed-methods-systematisieren-i-typologien}{%
+\section{Mixed Methods systematisieren I: Typologien}\label{mixed-methods-systematisieren-i-typologien}}
+
+\begin{itemize}
+\tightlist
+\item
+  Entscheidend sind die Kriterien, nicht die Typen
+\item
+  Typen helfen aber, sich ein Bild von praktisch realisierbaren und real auftretenden Designs zu machen
+\item
+  Design- und Methodenfragen treten kombiniert auf
+\end{itemize}
+
+\hypertarget{mixed-methods-systematisieren-ii-notationen}{%
+\section{Mixed Methods systematisieren II: Notationen}\label{mixed-methods-systematisieren-ii-notationen}}
+
+\hypertarget{mixed-methods-systematisieren-iii-visualisierung}{%
+\section{Mixed Methods systematisieren III: Visualisierung}\label{mixed-methods-systematisieren-iii-visualisierung}}
+
+\hypertarget{sequenzielle-integration}{%
+\section{Sequenzielle Integration}\label{sequenzielle-integration}}
+
+\hypertarget{simultane-integration}{%
+\section{Simultane Integration}\label{simultane-integration}}
+
+\begin{itemize}
+\tightlist
+\item
+  Illustrierende Funktion
+\item
+  Ergänzende Funktion
+\item
+  Vertiefende Funktion
+\end{itemize}
+
+\hypertarget{integrierte-datenproduktion}{%
+\section{Integrierte Datenproduktion}\label{integrierte-datenproduktion}}
+
+\hypertarget{integrierte-datenanalyse}{%
+\section{Integrierte Datenanalyse}\label{integrierte-datenanalyse}}
+
+\hypertarget{realistische-szenarien}{%
+\section{Realistische Szenarien}\label{realistische-szenarien}}
+
+\begin{itemize}
+\tightlist
+\item
+  Sekundär gemixed
+\end{itemize}
+
+\hypertarget{methodenkoffer-beispiele-fuxfcr-mm-integrierten-methodeneinsatz}{%
+\section{Methodenkoffer: Beispiele für MM-integrierten Methodeneinsatz}\label{methodenkoffer-beispiele-fuxfcr-mm-integrierten-methodeneinsatz}}
+
+\hypertarget{wissenschaftstheoretische-grundlagen}{%
+\section{Wissenschaftstheoretische Grundlagen}\label{wissenschaftstheoretische-grundlagen}}
+
+\hypertarget{designs-und-methoden}{%
+\chapter{Designs und Methoden}\label{designs-und-methoden}}
+
+\hypertarget{zwei-kompetenzen-eine-annuxe4herung}{%
+\section{Zwei Kompetenzen: eine Annäherung}\label{zwei-kompetenzen-eine-annuxe4herung}}
+
+\begin{itemize}
+\tightlist
+\item
+  Methoden als Werkzeuge
+\item
+  Methoden als Wege zu einem Ziel
+\end{itemize}
+
+\hypertarget{designs-zwischen-logik-und-logistik}{%
+\section{Designs: zwischen Logik und Logistik}\label{designs-zwischen-logik-und-logistik}}
+
+\begin{itemize}
+\tightlist
+\item
+  Abstraktion und Verallgemeinerung
+\item
+  Design als Metapher
+\end{itemize}
+
+\hypertarget{drei-grunddesigns}{%
+\section{Drei Grunddesigns}\label{drei-grunddesigns}}
+
+\begin{itemize}
+\tightlist
+\item
+  Vorwissen/Annahmen
+\item
+  Voraussetzungen
+\item
+  Generalisierungsstrategie
+\item
+  Häufige Probleme in der Praxis
+\end{itemize}
+
+\hypertarget{qualitativ-versus-quantitativ}{%
+\chapter{Qualitativ versus quantitativ?}\label{qualitativ-versus-quantitativ}}
+
+\hypertarget{eine-sinnvolle-unterscheidung-nein}{%
+\section{Eine sinnvolle Unterscheidung? Nein}\label{eine-sinnvolle-unterscheidung-nein}}
+
+\begin{itemize}
+\tightlist
+\item
+  Fehlen klarer Abrenzungskriterien
+\item
+  Interne Heterogenität
+\end{itemize}
+
+\hypertarget{eine-sinnlose-unterscheidung-nein}{%
+\section{Eine sinnlose Unterscheidung? Nein}\label{eine-sinnlose-unterscheidung-nein}}
+
+\begin{itemize}
+\tightlist
+\item
+  Zielsetzungen konkret
+\item
+  Prinzipien
+\item
+  Herausforderungen
+\item
+  Stärken
+\end{itemize}
+
+\hypertarget{rollen-im-forschungsprozess}{%
+\section{Rollen im Forschungsprozess}\label{rollen-im-forschungsprozess}}
+
+\begin{itemize}
+\tightlist
+\item
+  Qualitativ explorativ?
+\item
+  Triangulation (selber Gegenstand mit selben Ziel aus verschiedenen Perspektiven)
+\end{itemize}
+
+\hypertarget{gegenstuxe4nde-und-ziele-bestimmen}{%
+\chapter{Gegenstände und Ziele bestimmen}\label{gegenstuxe4nde-und-ziele-bestimmen}}
+
+\begin{itemize}
+\tightlist
+\item
+  Zentrale Funktion für die Beurteilung der Passung von Methoden wie auch für deren gezielte Kombination
+\item
+  Unklare Begriffe, häufig schwierig dingfest zu machen
+\item
+  Nicht zwingend: bleibt auch in der Praxis häufig implizit
+\item
+  Aber: notwendig, um Kohärenz herzustellen und zu bewerten
+\end{itemize}
+
+\hypertarget{gegenstand-ist-nicht-gleich-thema}{%
+\section{Gegenstand ist nicht gleich Thema}\label{gegenstand-ist-nicht-gleich-thema}}
+
+\hypertarget{gegenstand-ist-nicht-gleich-material}{%
+\section{Gegenstand ist nicht gleich Material}\label{gegenstand-ist-nicht-gleich-material}}
+
+\hypertarget{der-gegenstand-ist-nicht-immer-nur-einer}{%
+\section{Der Gegenstand ist nicht immer nur einer}\label{der-gegenstand-ist-nicht-immer-nur-einer}}
+
+\hypertarget{der-gegenstand-ist-immer-konstruiert}{%
+\section{Der Gegenstand ist immer konstruiert}\label{der-gegenstand-ist-immer-konstruiert}}
+
+\hypertarget{ziele-kuxf6nnen-unterschiedlicher-art-sein}{%
+\section{Ziele können unterschiedlicher Art sein}\label{ziele-kuxf6nnen-unterschiedlicher-art-sein}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``rationale for mixing methods''
+\end{itemize}
+
+\hypertarget{epistemische-zielsetzungen-i-theorie-und-empirie}{%
+\section{Epistemische Zielsetzungen I: Theorie und Empirie}\label{epistemische-zielsetzungen-i-theorie-und-empirie}}
+
+\hypertarget{epistemische-zielsetzungen-ii-angestrebtes-ergebnisformat}{%
+\section{Epistemische Zielsetzungen II: Angestrebtes Ergebnisformat}\label{epistemische-zielsetzungen-ii-angestrebtes-ergebnisformat}}
+
+\hypertarget{forschungsfragen}{%
+\chapter{Forschungsfragen}\label{forschungsfragen}}
+
+\begin{itemize}
+\tightlist
+\item
+  Dieses Kapitel ist teilweise ergänzend und vertiefend
+\item
+  Häufige Feststellung, dass die Forschungsfrage entscheidend ist (Beispiel: \url{https://f.hypotheses.org/wp-content/blogs.dir/6542/files/2019/05/MMR5.jpg})
+\end{itemize}
+
+\hypertarget{die-funktionen-von-forschungsfragen}{%
+\section{Die Funktionen von Forschungsfragen}\label{die-funktionen-von-forschungsfragen}}
+
+\begin{itemize}
+\tightlist
+\item
+  Für Mixed Methods wichtig, weil Klarheit notwendig
+\item
+  Kommunikationsfunktion
+\item
+  Entscheidungsfunktion
+\item
+  Definitionsfunktion
+\item
+  Brückenfunktion
+\end{itemize}
+
+\hypertarget{was-haben-forschungsfragen-mit-mixed-methods-zu-tun}{%
+\section{Was haben Forschungsfragen mit Mixed Methods zu tun?}\label{was-haben-forschungsfragen-mit-mixed-methods-zu-tun}}
+
+\hypertarget{kommen-forschungsfragen-immer-als-erstes}{%
+\section{Kommen Forschungsfragen immer als erstes?}\label{kommen-forschungsfragen-immer-als-erstes}}
+
+\hypertarget{was-macht-eine-gute-forschungsfrage-aus}{%
+\section{Was macht eine gute Forschungsfrage aus?}\label{was-macht-eine-gute-forschungsfrage-aus}}
+
+\hypertarget{mixed-methods-systematisieren-i-typologien-1}{%
+\chapter{Mixed Methods systematisieren I: Typologien}\label{mixed-methods-systematisieren-i-typologien-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mixed Methods zeichnen sich durch Adaptivität, Variabilität und Komplexität aus
+\item
+  Um trotzdem Ordnung ins Chaos zu bringen: Typologien
+\item
+  Entscheidend: Dimensionen und Ausprägungen
+\end{itemize}
+
+\hypertarget{beispiel-i-creswell-plano-clark}{%
+\section{Beispiel I: Creswell \& Plano-Clark}\label{beispiel-i-creswell-plano-clark}}
+
+\begin{itemize}
+\tightlist
+\item
+  Für Mixed Methods wichtig, weil Klarheit notwendig
+\item
+  Kommunikationsfunktion
+\item
+  Entscheidungsfunktion
+\item
+  Definitionsfunktion
+\item
+  Brückenfunktion
+\end{itemize}
+
+\hypertarget{beispiel-ii-flow-chart-typologie}{%
+\section{Beispiel II: Flow-Chart-Typologie}\label{beispiel-ii-flow-chart-typologie}}
+
+(DAS VIELLEICHT ALS EIGENEN PUNKT)
+
+\hypertarget{mixed-methods-systematisieren-ii-notationen-1}{%
+\chapter{Mixed Methods systematisieren II: Notationen}\label{mixed-methods-systematisieren-ii-notationen-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Notationen als alternative Form
+\item
+  Ebenfalls erlernbar und kommunizierbar
+\item
+  Vorteile: einfacher, flexibler, stärker zu gezielter Begründung einladend
+\end{itemize}
+
+\hypertarget{bausteine}{%
+\section{Bausteine}\label{bausteine}}
+
+\hypertarget{beispiele}{%
+\section{Beispiele}\label{beispiele}}
+
+  \bibliography{book.bib}
+
+\end{document}

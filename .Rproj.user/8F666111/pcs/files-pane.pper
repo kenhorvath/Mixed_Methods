@@ -1,0 +1,9 @@
+{
+    "path" : "~/ownCloud/Lehre/UZH/Online",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

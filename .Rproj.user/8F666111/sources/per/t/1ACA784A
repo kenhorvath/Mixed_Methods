@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584624321236.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3429903333",
+    "id" : "1ACA784A",
+    "lastKnownWriteTime" : 1584629558,
+    "last_content_update" : 1584629558141,
+    "path" : "~/ownCloud/Lehre/UZH/Online/MM_Book/05-forschungsfragen.Rmd",
+    "project_path" : "05-forschungsfragen.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,49",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
