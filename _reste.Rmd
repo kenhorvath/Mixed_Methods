@@ -1,0 +1,108 @@
+In der Literatur findet sich manchmal eine Differenzierung zwischen "Mixed Methods" und "multi-methods-research" [siehe etwa @schoonenboom2017], derzufolge erstere qualitative und quantitative Methoden mischt, während letztere verschiedene qualitative oder verschiedene quantitative Methoden in einer Studie kombiniert. Diese Unterscheidung wird im Folgenden dezidiert nicht getroffen. Vielmehr soll durchgängig unterstrichen werden, dass sich viele Probleme der Mixed-Methods-Forschung bei näherem Hinsehen auch in "ganz normalen" Forschungsprojekten zeigen. Eine scharfe Trennlinie wäre daher irreführend.
+
+Mixed Methods sollten aber nicht einfach auf die Überwindung dieser Trennlinie zu reduzieren. Sie kann aber auch irreführend sein, weil erstens die Trennlinie zwischen qualitativen und quantitativen Methoden nicht so klar zu ziehen ist, wie man glauben möchte, weil sie zweitens von zum Teil beträchtlichen Unterschieden innerhalb der beiden vermeintlichen Lager ablenkt. 
+
+## Eine sinnvolle Unterscheidung? Nein 
+
+- Fehlen klarer Abrenzungskriterien
+- Interne Heterogenität 
+
+## Eine sinnlose Unterscheidung? Nein 
+
+- Zielsetzungen konkret
+- Prinzipien
+- Herausforderungen
+- Stärken 
+
+## Rollen im Forschungsprozess 
+
+- Qualitativ explorativ?
+- Triangulation (selber Gegenstand mit selben Ziel aus verschiedenen Perspektiven)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Mixed Methods zeichnen sich durch Adaptivität, Variabilität und Komplexität aus
+- Um trotzdem Ordnung ins Chaos zu bringen: Typologien
+- Entscheidend: Dimensionen und Ausprägungen 
+
+## Beispiel I: Creswell & Plano-Clark
+
+- Für Mixed Methods wichtig, weil Klarheit notwendig
+- Kommunikationsfunktion
+- Entscheidungsfunktion 
+- Definitionsfunktion
+- Brückenfunktion 
+
+## Beispiel II: Flow-Chart-Typologie 
+(DAS VIELLEICHT ALS EIGENEN PUNKT)
+
+
+
+- Entscheidend sind die Kriterien, nicht die Typen 
+- Typen helfen aber, sich ein Bild von praktisch realisierbaren und real auftretenden Designs zu machen 
+- Design- und Methodenfragen treten kombiniert auf 
+
+
+
+
+
+
+- Notationen als alternative Form
+- Ebenfalls erlernbar und kommunizierbar
+- Vorteile: einfacher, flexibler, stärker zu gezielter Begründung einladend 
+
+## Bausteine 
+
+ 
+
+## Beispiele 
+
+
+
+
+
+
+
+
+
+## Designs: zwischen Logik und Logistik
+
+Nachdem der letzte Abschnitt Design- von Methodenfragen unterschieden hat noch ein paar Bemerkungen zum Begriff des Forschungsdesigns für sich alleine genommen. Denn so klar de Begriff scheinen mag, so schwer ist es, eine simple Definition zu geben. Das liegt auch daran, dass Designfragen gerade deswegen so wichtig sind, weil sie **Schnittstellen und Übergänge** betreffen. Ein Forschungsdesign vermittelt zwischen Theorie und Empirie, es übersetzt den logischen Aufbau eines wissenschaftlichen Arguments in einen konkreten Arbeitsplan, es bringt die Grundstruktur eines Projekts auf den Punkt, um Fragestellungen und Ergebnisse möglichst unmissverständlich kommunizieren zu können … 
+
+Analogien aus dem Bereich der Architektur sind hilfreich, um die volle Bedeutung des Begriffs Forschungsdesign zu erfassen (dieses Beispiel wird in der Literatur zu Forschungsdesigns gerne genutzt). Die architektonische Designtätigkeit umfasst ein ständiges Wechselspiel zwischen grundlegenden Ideen (das "Konzept") und Fragen der konkreten Umsetzbarkeit einerseits, zwischen Aspekten der Ästhetik und der Nutzbarkeit andererseits. Jeder architektonische Entwurf folgt einer "Logik" (einer Ästhetik), diese müssen aber immer mit logistischen und funktionalen Aspekten in Übereinstimmung gebracht werden (Möglichkeiten der realistischen Umsetzung). In einem überzeugenden und tragfähigen Design finden diese verschiedenen Aspekte zueinander: Gestaltung und Planung, Form und Funktion. Der Erfolg eines architektonischen Entwurfs wird nach bestimmten Kriterien bewertet – je nach Gebäude werden Funktionalität und Ästhetik immer eine wichtige Rolle spielen. Diese Bewertung nehmen in aller Regel Außenstehende vor. 
+
+Ähnlich ist es für ein Forschungsprojekt. Auch hier müssen Logik und Logistik aufeinander abgestimmt werden. Ein Forschungsdesign muss beiden entsprechen und erlauben, dass Grundideen in Arbeitspakete übersetzbar sind – diese aber auch so aufeinander abgestimmt sind, dass das Ergebnis trägt. Und schließlich lassen sich auch Forschungsdesigns bewerten. Die Kriterien für ein Forschungsdesign sind natürlich nicht dieselben, hier werden als Maßstäbe wie Relevanz, Rigidität und Kohärenz angelegt. Allgemeingültigkeit (abstrakt und generalisierbar). 
+
+
+Kurz: Designfragen betreffen das unsichtbare Grundgerüst, das die sichtbaren Aspekte eines Forschungsprojekts zusammenhält und in Verbindung setzt. 
+Wie man nämlich (speziell in human- und sozialwissenschaftlichen) Zusammenhängen kohärente und produktive Forschungsprozesse gestaltet, die relevante, glaubwürdige und in diesem Sinn verallgemeinerbare Ergebnisse versprechen.  
+
+- Abstraktion und Verallgemeinerung
+- Design als Metapher
+
+
+
+
+Die Methodenwahl hat in der Regel zwei Fokuspunkte: Datenproduktion und Analysestrategien. Die zentrale Herausforderung besteht darin, das empirische Material (Frage Y) und die Analysestrategie (Frage Y) auf Gegenstand (Frage Y) und Zielsetzung (Frage Y) abzustimmen, unter Berücksichtigung epistemologischer Erwägungen (Frage Y). Fragen der Stichprobengestaltung sind häufig nicht spezifisch für eine bestimmte methodische Herangehensweise, können es aber sein. 
+
+Der sozialwissenschaftlichen Empirie stehen vielfältige Materialien zur Verfügung – im Prinzip alles, was die soziale Welt selbst an Beobachtbarem hervorbringt oder durch Forschende hervorgerufen werden kann. Die zentrale Designaufgabe besteht darin, inhaltliche Problemstellung (Gegenstand und Zielsetzung) und Material aufeinander abzustimmen. Sind Beobachtungen oder Kommunikationsmaterialen angemessen? Ist Standardisierung nötig oder ist nicht-standardisiertes Material gefragt? Es empfiehlt sich, Materialfragen zwei Mal zu stellen: einmal mit Fokus auf die Gegenstandsangemessenheit, einmal mit Schwerpunkt auf die Zielsetzung. 
+
+Die widersprüchliche und unzureichende Diskussion von Stichprobenlogiken ist vielleicht ärgerlichste, weil einfach zu vermeidende und dennoch sehr häufige Designfehler, der bei Weitem nicht nur in studentischen Arbeiten zu finden ist. Während Details der Datenerhebung häufig ausführlich dargelegt werden und die Analyseverfahren bis hin zur verwendeten Software erläutert oder zumindest genannt werden, reduziert sich die Darstellung des Stichprobenverfahrens häufig auf eine lapidare Nennung einer Zahl. Die Fixierung auf die Zahl spiegelt sich in der häufigen Unsicherheit, ob 250 Fragebögen, 12 Interviews oder 3 Schulen genug seien. Auf die Gefahr hin, über das Ziel hinaus zu schießen: So formuliert, ist das keine sinnvolle Frage. 
+
+Die Glaubwürdigkeit eines empirischen Ergebnisses hängt fundamental von der Stichprobenstrategie ab. In gewisser Hinsicht könnte man sagen, dass die Stichprobe die zentrale Designentscheidung ist, die es zu treffen und aktiv umzusetzen gilt. Die Form der Stichprobengestaltung muss argumentationslogisch zu Generalisierungsstrategie, Gegenstand und Zielsetzung passen und praktisch mit den angestrebten Methoden der Datenproduktion und -analyse verträglich sein. 
+
+In Analogie zu den drei vorwiegenden Formen der Generalisierung können drei idealtypische Formen der Stichprobengestaltung unterschieden werden. 
+Wesentlich ist, dass die Stichprobe wohlüberlegt und kohärent gestaltet wird - und das Vorgehen in der Präsentation von Vorgehensweisen und Befunden auch ausreichend klar dargestellt wird. 
