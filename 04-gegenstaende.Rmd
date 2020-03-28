@@ -1,25 +1,28 @@
-# Gegenstände und Ziele bestimmen
+# Gegenstände und Ziele bestimmen {#gegenstaendeziele}
 
-- Zentrale Funktion für die Beurteilung der Passung von Methoden wie auch für deren gezielte Kombination 
-- Unklare Begriffe, häufig schwierig dingfest zu machen 
-- Nicht zwingend: bleibt auch in der Praxis häufig implizit
-- Aber: notwendig, um Kohärenz herzustellen und zu bewerten
+Um aus einer Forschungsfrage abzulesen, welche Methoden und welches Design für ein Projekt geeignet sind, müssen zwei Punkte deutlich sein:  Gegenstand und Erkenntnisziele. Wir sich über diese beiden Aspekte eines Forschungsvorhabens im Klaren ist, kann bewusste und sinnvolle Entscheidungen treffen. 
 
-## Gegenstand ist nicht gleich Thema 
+Beide Punkte sind alles andere als trivial. Der konkrete Gegenstand eines Forschungsprojekts kann oft nur umschrieben werden. Und Ziele sind in aller Regel mehrstufig und mehrschichtig. In beiden Fällen geht es darum, über das eigene Projekt nachzudenken. Dafür gibt es kein endgültiges, vorgefertigtes Schema. 
 
-Der Gegenstand eines Forschungsprojekts ist nicht dasselbe wie sein Thema. 
+## Thema vs. Gegenstand vs. Material 
 
-## Gegenstand ist nicht gleich Material 
+Jede empirische Forschung hat ihren Gegenstand. Der Gegenstand eines Projekts ist nicht mit seinem Thema und auch nicht mit dem empirischen Material zu verwechseln. Er hat aber selbstverständlich mit beidem viel damit zu tun. 
 
-## Der Gegenstand ist nicht immer nur einer 
+Beispielsweise kann sich ein Projekt dem *Thema* "Rassismus in Universitätskontexten" widmen. Das Thema definiert hier den inhaltlichen Problembereich. Der **Gegenstand** bezeichnet demgegenüber die Art von sozialem Phänomen, die untersucht werden soll. Zum Beispiel könnte unter der breiten Thema nach *Erfahrungen mit rassistischer Diskriminierung* gefragt werden; das wäre ein anderer Gegenstand, als wenn für dasselbe Thema *diskriminierende Verhaltensweisen* untersucht werden sollen; ein dritter möglicher Gegenstand zum selben Thema wäre definiert, wenn unter Rassismus *überindividuelle Wissensordnungen* verstanden werden. 
 
-## Der Gegenstand ist immer konstruiert 
+Je nach empirischen Gegenstand sind verschiedene Arten **empirischen Materials** unterschiedlich angemessen. Für den Gegenstand rassistische Erfahrungen könnten unter Umständen mit Fragebögen und/oder qualitativen Interviews gearbeitet werden; um diskriminierende Verhaltensweisen zu untersuchen, müsste idealerweise beobachtet oder mit Feldexperimenten gearbeitet werden; um überindividuelle Wissensordnungen ("Diskurse") zu erschließen, könnten etwa Dokumente analysiert werden. 
 
-## Ziele können unterschiedlicher Art sein
+Realistisch nutzbare Materialien werden dem angestrebten Gegenstand nie perfekt entsprechen. Der Gegenstand mag beispielsweise rein logisch Beobachtungen erfordern (Praktiken, Verhalten), aus organisatorischen Gründen muss aber mit Interviews gearbeitet werden. Solche Brüche zwischen Gegenstand und Material sind häufig nicht zu vermeiden. Wichtig ist, sie offen darzustellen und ihre Folgen für die Aussagekraft eines Projekts zu reflektieren. Mixed Methods können in solchen Settings hilfreich sein, um einen schwer empirisch zu fassenden Gegenstand zumindest aus unterschiedlichen Blickwinkeln betrachten zu können. 
 
-- "rationale for mixing methods"
+Gerade in Mixed-Methods-Studien kann es vorkommen, dass verschiedene Gegenstände erforscht werden sollen. Zum Rassismus an Hochschulen könnten so zum Beispiel sowohl Erfahrungen mit Diskriminierung als auch diskriminierende Verhaltensweisen untersucht werden, um sie dann zueinander in Beziehung setzen zu können. Wichtig ist nur, beide Gegenstände und ihre Implikationen für die Gestaltung des Projekts bewusst vor Augen zu haben.
 
 
-## Epistemische Zielsetzungen I: Theorie und Empirie 
+## Erkenntnisziele 
 
-## Epistemische Zielsetzungen II: Angestrebtes Ergebnisformat 
+Während die Bestimmung des Gegenstands primär der Methodenwahl dient, hat die Definition von Erkenntniszielen in erster Linie Folgen für das Forschungsdesign. Für Mixed-Methods-Projekte sollten Ziele auf zumindest drei Stufen festgelegt werden:
+
+**1. Welche Art von Generalisierungsziel wird angestrebt?** Auf dieser allgemeinsten Ebene geht es darum, den Typ von wissenschaftlicher Zielsetzung zu klären. Aus dieser lässt sich ablesen, welche(s) sozialwissenschaftliche(n) Grunddesign(s) angemessen sind. Soll, um beim Beispiel Rassismus an Hochschulen zu bleiben, die Häufigkeit von Rassismuserfahrungen erfasst werden, liegt ein **deskriptives Erkenntnisinteresse** vor, das auf **Repräsentativität** abzielt. Forschungslogisch liegt ein Erhebungsdesign nahe. Soll erkundet werden, wie Erfahrungen mit Rassismus Selbstbilder und Lebenswege prägen, dann liegt ein ein **exploratives Erkenntnisinteresse** vor, das darauf abzielt, ein soziales Phänomen **in seiner ganzen Komplexität** auszuloten. Das Grunddesign der Wahl ist demnach eine Fallstudie. Soll erforscht werden, wie sich Formen der medialen Berichterstattung auf Einstellungen auswirken, dann liegt ein **explanatives**/**analytisches** Erkenntnisinteresse vor, das auf die **saubere Isolation eines Ursache-Wirkungs-Zusammenhangs** abzielt. Als Grunddesign ergibt sich das (Quasi-)Experiment. 
+
+**2. Welche Art von Erkenntnissen/Ergebnissen zum konkreten Gegenstand können erwartet werden?** Die Bestimmung von epistemischen Zielen ist wichtig, um die Kohärenz eines Projekts sicherzustellen. Sie bleibt aber **abstrakt** und hilft wenig für die Beschäftigung mit dem **konkreten Phänomen** bzw. der **inhaltlichen Problemstellung**. Es empfiehlt sich daher, auf einer zweiten Ebene die inhaltlichen, gegenstandsspezifischen Ziele eines Projekts zu formulieren. In experimentellen Studien läuft das letztlich auf die Formulierung von **Hypothesen** hinaus. In Fallstudien und Erhebungen wird es eher darum gehen, zu umschreiben, **welche *Art* von Aussagen und Ergebnissen** erwartet wird. Wird auf Ebene 1 die logische Kohärenz eines Projekts verhandelt, geht es auf dieser zweiten Ebene um die Frage der inhaltlichen **Relevanz**. 
+
+**3. Welches Ziel wird mit jeder der einzelnen Projektkompenten / Methoden verfolgt?** Speziell in Mixed-Methods-Studien wird es notwendig sein, auf einer dritten Ebene über Ziele nachzudenken. Auf dieser dritten Ebene werden die einzelnen Arbeitspakete / Projektkomponenten fokussiert: Für jede Methode und jede Komponente muss so explizit wie möglich definiert werden, welches (Zwischen-)Ziel mit ihr verfolgt wird. So kann beispielsweise eine qualitative Interviewstudie geführt werden, *um eine Grundlage für die Formulierung von Fragebogenitems zu erarbeiten*. Oder es wird eine Fragebogenerhebung durchgeführt, *um aufgrund erster quantitativer Verteilungen eine Basis für die begründete Auswahl von Interviewpartner/innen zu haben*. Diese beiden Beispiele implizieren ein sequenzielles Mixed-Methods-Design -- das zweite Arbeitspaket kann erst angegangen werden, wenn das erste erledigt ist. Ein Beispiel für ein paralles Design wäre, wenn qualitative Interviews geführten werden, *um die Validität eines Testinstruments zu validieren* oder *um eine experimentelle Wirksamkeitsstudie mit einer ethnographischen Studie vertiefend zu begleiten*.

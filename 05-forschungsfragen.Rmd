@@ -1,22 +1,69 @@
-# Forschungsfragen 
+# Forschungsfragen und ihre Funktionen für die Mixed-Methods-Forschung
 
-- Dieses Kapitel ist teilweise ergänzend und vertiefend 
-- Häufige Feststellung, dass die Forschungsfrage entscheidend ist (Beispiel: https://f.hypotheses.org/wp-content/blogs.dir/6542/files/2019/05/MMR5.jpg)
+In der Mixed-Methods-Literatur stößt man unausweichlich auf die Feststellung, dass die Forschungsfrage ausschlaggebend für die [Methoden- und Designwahl](#designsmethoden) sein soll [@tashakkori2007; @tashakkori2010; @creswell2018, Kap. 5]: "[R]esearch questions in mixed methods studies are vitally important because they, in large part, dictate the type of research design used, the sample size and sampling scheme employed, and the type of instruments administered as well as the data analysis techniques" [@onwuegbuzieleech2006, 475]. 
 
-## Die Funktionen von Forschungsfragen 
+Dieses prinzipielle Bekenntnis zum Stellenwert von Forschungsfragen findet sich auch in anderen methodologischen Zusammenhängen, wird für Mixed Methods aber ganz grundlegend programmatisch.^[Siehe zum Beispiel: https://f.hypotheses.org/wp-content/blogs.dir/6542/files/2019/05/MMR5.jpg und zahlreiche andere Online-Ressourcen zum Thema.]  
 
-Forschungsfragen wird eine geradezu magische Macht zugesprochen. 
+Doch wieso sind Forschungsfragen eigentlich so wichtig? Wie genau liest man aus einer Frage ab, welche Methoden zu ihrer Beantwortung notwendig sind? Und umgekehrt: Worauf ist bei der Formulierung einer Forschungsfrage zu achten, wenn sie eine kohärente Methodenwahl zulassen soll? 
 
-- Für Mixed Methods wichtig, weil Klarheit notwendig
-- Kommunikationsfunktion
-- Entscheidungsfunktion 
-- Definitionsfunktion
-- Brückenfunktion 
+## Was macht eine Frage zur Forschungsfrage?
 
-## Was haben Forschungsfragen mit Mixed Methods zu tun? 
+Was genau ist aber nun eigentlich eine Forschungsfrage? Als erste Annäherung können wir definieren, dass eine Forschungsfrage Anspruch, Grundlage und Breite eines Forschungsvorhabens widerspiegelt. Mit Anspruch ist hier die Art des Erkenntnisanspruchs gemeint: Welche Art von Beitrag zu aktuellen wissenschaftlichen Debatten verspricht das Projekt? Mit Grundlage sind in erster Linie theoretische Bezugspunkte, in zweiter Linie die empirische Basis gemeint. Und mit Breite wird letztlich auf das Problem der Verallgemeinerbarkeit abgezielt: Sind die Befunde auf einen engen Teilausschnitt der sozialen Welt beschränkt bzw. zu welchem Grad sind sie auf andere als die direkt beforschten Kontexte übertragbar? 
 
-## Kommen Forschungsfragen immer als erstes?
+## Die vier Funktionen von Forschungsfragen 
+
+Dass eine "gute Forschungsfrage" für das Gelingen eines Forschungsprojekts zentral ist, wird kaum jemand bezweifeln. Sehr viel weniger klar ist, worin ihre Bedeutung eigentlich genau besteht. Das mag daran liegen, dass Forschungsfragen nicht eine logisch notwendige und klar umrissene Funktion erfüllen. Die herausragende Relevanz von Forschungsfragen ergibt sich vielmehr aus dem Umstand, dass sie mehrere Funktionen gleichzeitig erfüllen. Forschungsfragen sind die Antwort auf verschiedene Probleme, die sich im Kontext empirischer Forschung stellen.  
+
+Grob lassen sich vier solcher konkreter Probleme benennen. Alle vier sind für Mixed Methods von spezieller Relevanz:
+
+**1. Forschungsfragen schlagen eine Brücke zwischen Theorie und Empirie**: Eine gute Forschungsfrage bezieht sich auf wissenschaftliche Literatur, um ein Rätsel zu formulieren, das nur durch aktive Forschungsbemühungen zu "lösen" ist. Sie steht daher immer mit einem Bein in der Theorie (verwendet zum Beispiel theoretische Begriffe und Konzepte), mit dem anderen in der Empirie (lässt erkennen, was zu tun ist, um beantwortet zu werden). Diese Brückenfunktion macht einen großen Teil der ominösen Macht von Forschungsfragen aus, die Methodenwahl zu bestimmen.
+
+**2. Forschungsfragen definieren Erkenntnisziele**: Aus einer gut formulierten Forschungsfrage lassen sich die Erkenntnisziele eines Projekts ablesen. Für Mixed-Methods-Projekte sind klar definierte Ziele entscheidend, weil nur so Prioritäten gesetzt und einzelne Komponenten sinnvoll (=zielorientiert) aufeinander abgestimmt werden können. 
+
+**3. Forschungsfragen helfen, Entscheidungen zu treffen**: Die Definition Erkenntniszielen ist auch deshalb wichtig, weil empirische Forschung ständig Entscheidungen verlangt. Ohne einen Kompass in Form klarer Forschungsfragen läuft man Gefahr, diese Entscheidungen inkohärent zu treffen -- also von Situation zu Situation nach unterschiedlichen Kriterien zu entscheiden. Diese vielen kleinen Gestaltungsschritte können sich schnell zu einem undurchsichtigen Gesamtgebäude fügen, in dem man sich nicht orientieren kann. Für Mixed Methods wiegt das noch einmal schwerer, weil hier mehrere empirische Projektteile aufeinander abgestimmt werden müssen. 
+
+**4. Forschungsfragen erfüllen eine Kommunikationsfunktion**: Eine häufig unterschätzte Funktion von Forschungsfragen liegt darin, die Anliegen eines Projekts einfach und verständlich kommunizieren zu können. Eine klar formulierte Frage lässt  (gerade weil sie kurz und auf das Wesentliche reduziert ist) viel weniger Spielraum für Missverständnisse als andere Formen der Projektdarstellung. Das ist gerade für Mixed-Methods-Projekte entscheidend, weil sich in diesen Missverständnisse zusätzlich aus den verschiedenen methodologischen Hintergründen von Gesprächspartner*innen ergeben können. 
+
+Diese Grundfunktionen von Forschungsfragen hängen eng zusammen. In ihrer Summe laufen sie darauf hinaus, dass Forschungsfragen ein Format zum konzentrierten Nachdenken über ein empirisches Forschungsprojekt sind: In ihnen laufen Ziele, Forschungsstrategien, theoretische Bezugspunkte, Ideen zur empirischen Umsetzung und wissenschaftliche Bezugspunkte mit den alltäglichen Sorgen der konkreten Realisierung eines Projekts zusammen.  
+
+## Wie bestimmt eine Forschungsfrage die Methodenwahl?
+
+Die Erfahrung zeigt, dass es erstaunlich schwierig ist, eine zufriedenstellende Forschungsfrage zu formulieren. Woran merkt man, dass die Forschungsfrage ihren Zweck erfüllt? Wann habe ich eine Forschungsfrage, die als Richtschnur für ein empirisches Projekt funktionieren kann? 
+
+Die knappe Antwort lautet: Dann, wenn sich [der Gegenstand und die Ziele](#gegenstaendeziele) eines Forschungsprojekts klar erkennen lassen. 
+
+Wann das der Fall ist, ist nicht immer leicht zu sagen. Eine gute Forschungsfrage soll leicht verständlich (und damit kommunizierbar) und nicht zu komplex sein (um auch wirklich Entscheidungen anleiten zu können). Daher ist es in der Regel nicht zielführend, Gegenstand und Ziele möglichst umfassend und präzise in der Frage auszudefinieren. Damit würde einfach schwerer zu handhaben und ihren praktischen Nutzen verlieren. 
+
+Hier sind drei Beispiele Forschungsfragen, die zwar schnell formuliert sind, aber sowohl Gegenstand als auch Ziele widerspiegeln und so Anhaltspunkte zur Methodenwahl liefern: 
+
+*Wie verändert sich das Lernverhalten von Schüler\*innen durch die Nutzung digitaler Lernmedien?* Primärer *Gegenstand* dieser Frage ist das Lernverhalten. Dieser Begriff sollte für eine "ernst gemeinte" Forschungsfrage theoretisch unterfüttert sein und sich in einen breiteren Theorierahmen fügen. Aus dieser ersten Gegenstandsbestimmung ergibt sich, dass zur Beantwortung der Frage empirische Materialien nötig sind, die Verhalten widerspiegeln. Es geht also nicht darum, was Schüler\*innen glauben oder sagen, sondern um das, was sie tatsächlich tun. Es geht auch nicht um Verhalten im Labor, sondern unter realen Bedingungen. Ideal wäre also eine Kombination aus Beobachtungen und Prozessmaterial. Die *Zielsetzung* ist explorativ: Die Wie-Frage setzt voraus, dass sich etwas verändert, gibt aber keinerlei Hinweise auf die Hinsichten und die Richtung der Veränderung. Entsprechend scheint der Schwerpunkt auf qualitativen Methoden zu liegen, die von Offenheit und Flexibilität geprägt sind. Quantitative Methoden scheinen von untergeordneter Bedeutung, können aber wichtig werden, um beispielsweise wiederkehrende Muster zu identifizieren (z.B. dass Schüler*innen engagierter sind, wenn digitale Aufgaben eine bestimmte Komplexitätsstufe haben).
+
+*Welche Folgen hat die Umstellung auf Homeschooling für Bildungsungleichheiten in der Schweiz?* Diese Frage definiert als übergeordneten Gegenstand Bildungsungleichheiten. Auch das ist als ein theoretischer Begriff zu verstehen, der je nach Bezugsliteratur unterschiedlich verstanden wird. Die Zielsetzung hat eine deskriptive Schlagseite, wenn auch ein gewisser Kausalitätsanspruch mitschwingt: Es geht um die Beschreibung von Bildungsungleichheiten über die Zeit, wobei unterstellt wird, dass die Umstellung auf Homeschooling als Zeitreihenbruch behandelt werden kann. Die Frage definiert damit ein Erhebungsdesign. Sowohl Gegenstand als auch Zielsetzung legen vorwiegend quantitative Methoden nahe (es geht um die Veränderung von Ungleichheiten in einer großen Population). Welche Art von Daten geeignet ist, hängt von der genauen Definition von "Bildungsungleichheiten" ab - möglich wären beispielsweise Fragebögen zur Veränderung von Selbstbildern, Lebensentwürfen und Lernsituationen der Schüler*innen oder auch Kompetenztests. Qualitative Methoden könnten entweder in einer explorativen Vorstudie zum Einsatz kommen, beispielsweise als Grundlage für die Fragebogenentwicklung. Oder auch in einer vertiefenden Studie zum besseren Verständnis von Mustern aus der statistischen Datenanalyse. 
+
+*Wie wirken sich interkulturelle Kontakte auf migrationspolitische Einstellungen aus?* Diese Frage definiert zwei Gegenstände: interkulturelle Kontakte und migrationspolitische Einstellungen. Der Schwerpunkt wird in der Formulierung eher auf letztere gelegt. Einstellungen sind Wissensformen. Methodisch liegt hier also kommunikative Forschungsformen nahe -- Interviews oder Fragebögen. Die Zielsetzung ist kausal-explanativ, wie das Verv "auswirken" signalisiert. Damit liegt ein (quasi-)experimentelles Design nahe. Die "interkulturellen Kontakte" wären in diesem Fall das "Treatment" (und natürlich noch genauer zu spezifizieren).
 
 
-## Was macht eine gute Forschungsfrage aus?
+## Darf ich meine Forschungsfrage verändern? 
 
+Die eigentlich gut gemeinte Feststellung, dass sich Methoden aus der Forschungsfrage ergeben sollen, kann leicht zu Verunsicherungen führen. Eine der häufigsten betrifft die Möglichkeit, im Fortgang eines Forschungsprojekts an der Fragestellung zu schrauben. Ist das vertretbar, wenn sich doch alle davor getroffenen Entscheidungen eigentlich aus der Frage ergeben haben sollten? Kommen Methoden und Fragen dann nicht erst recht wieder in ein schiefes bis verkehrtes Verhältnis?
+
+Die Antwort ist wieder knapp: Ja, die Forschungsfrage darf und soll verändert werden! Die Verwirrung ergibt sich aus einem zweischrittigen Missvertändnis:
+
+1. Das Verhältnis von Forschungsfrage und Methoden muss logisch stimmig sein, nicht chronologisch festgezurrt: Die gewählten Methoden sollen sich inhaltlich schlüssig aus der Frage ergeben, sie müssen deswegen aber nicht zeitlich später festgelegt werden. In vielen Fällen ist die Entscheidung für oder gegen eine Methode schon vorab getroffen. Der Auftrag lautet dann, eine zu diesen Methoden stimmige Frage zu formulieren. Das ist nur dann ein Problem, wenn Punkt 2 nicht beachtet wird.
+
+2. Die Forschungsfrage soll sich mitsamt ihrer Gegenstands- und Zieldefinition aus dem Stand der Forschung (= Theorie) ergeben: Die Frage soll zur methodischen Vorgehensweise passen, sie soll aber auch ein Rätsel formulieren, das zur relevanten Bezugsliteratur und zu den inhaltlichen Themenstellungen und Konzepten des jeweiligen Forschungsfelds passt. Kritisch wird es, wenn Methodenpräferenzen zu Fragen führen, die eigentlich keine theoretische Relevanz haben: Methoden -> Forschungsfrage(n) ?! -> ?! Theorie. Idealerweise sollte das Passungsverhältnis sein: Methoden -> Forschungsfrage(n) <- Theorie. 
+
+Werden die Funktionen von Forschungsfragen ernst genommen, führt eigentlich kein Weg daran vorbei, sie permanent mit dem Projekt mitwachsen zu lassen. In der Forschungsfrage soll sich, so gesehen, das Projekt in seiner aktuellen Form konzentriert widergespiegelt finden. 
+
+
+## Kann ich mehr als eine Forschungsfrage haben? 
+
+Eine zweite Verunsicherung betrifft die Anzahl der Forschungsfragen. Gerade für Mixed-Methods-Projekte wirkt die Rede von DER Forschungsfrage unter Umständen einschüchternd. Muss es wirklich die eine einzige Frage sein -- oder können auch mehrere Fragen formuliert werden?
+
+In diesem Fall ist keine knappe Antwort möglich. In vielen Projekten wird es sinnvoll sein, verschiedene Frageformen und Frageebenen zu unterscheiden. Die übergeordnete Forschungsfrage kann dann in mehrere Unterfragen übersetzt werden, die jeweils eine Komponente oder eine Phase des Gesamtprojekts definieren. Diese Fragen können dann noch weiter heruntergebrochen werden, um beispielsweise die Datenerhebung an ein paar konkreten Fragen auszurichten. 
+
+In der Mixed-Methods-Literatur findet sich manchmal der Ratschlag, für qualitative und quantitative Methoden jeweils eigene und getrennte Fragen zu formulieren. Ob das gut funktioniert, hängt vom Projekt und auch von den eigenen Vorlieben ab. Zusätzlich wird aber in der Regel die Formulierung einer (integrierend-übergeordneten) "Mixed-Methods-Frage" vorgeschlagen [siehe etwa @onwuegbuzieleech2006, 480ff.].
+
+In vielen Fällen ist eine eindeutige Zuordnung von qualitativen und quantitativen Fragen aber nicht möglich und kann auch hinderlich sein. Wenn sich ein klares Frageschema entlang der Trennlinie qualitativ-quantitativ finden lässt, dann ist es gut. Wenn nicht, dann ist das auch kein Grund zur Panik. Wahrscheinlich würde eine solche Aufteilung dem konkreten Projekt nicht gerecht. 
+
+In jedem Fall empfehle ich, immer zu versuchen, eine einzige übergeordnete Forschungsfrage zu formulieren. Das hilft sehr dabei, sich die eigenen Ziele und Anliegen vor Augen zu halten. 

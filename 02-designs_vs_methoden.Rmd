@@ -1,18 +1,57 @@
-# Designs und Methoden 
+# (PART) Grundlagen {-}
 
-## Zwei Kompetenzen: eine Annäherung 
+# Designs und Methoden {#designsmethoden}
 
-- Methoden als Werkzeuge
-- Methoden als Wege zu einem Ziel
+Schon ein oberflächlicher Blick in die Literatur zeigt, dass der Begriff des Designs in der Mixed-Methods-Forschung eine prominente Rolle spielt [siehe etwa @kuckartz2014; @creswell2018]. Diese Bedeutung hat er aus zumindest zwei Gründen. Erstens stellt sich bei der Kombination verschiedener Methoden fast zwangsläufig die Frage, auf welcher wissenschaftstheoretischen Grundlage Erhebungstechniken, Materialien und Analyeformen verbunden werden; es stellt sich, in anderen Worten, die Frage nach der *Logik* eines Projekts. Zweitens sind Mixed-Methods-Projekte auch in der organisatorischen Umsetzung herausfordernd, weil es gilt, vielfältige und verschiedene Arbeitspakete aufeinander abzustimmen und in einen bewältigbaren Ablauf zu bringen; Mixed Methods sind auch eine Frage der *Logistik*. 
 
-## Designs: zwischen Logik und Logistik
+Weil diese Fragen für Mixed Methods so eine zentrale Bedeutung haben, wird im Folgenden der Begriff des Forschungsdesigns ein wenig detaillierter besprochen. Dieser verweist auf eine Reihe von entscheidenden Kompetenzen, die über das Feld von Mixed Methods hinaus für die empirische Sozialforschung nützlich sind. 
 
-- Abstraktion und Verallgemeinerung
-- Design als Metapher
+## Zwei Kompetenzen: Werkzeuge und Wege empirischer Forschung
+
+In seiner heute üblichen Bedeutung bezeichnet der Begriff "Methode" ein zielorientiertes und systematisches Vorgehen. Aus diesem Begriffsverständnis lassen sich zwei Metaphern ableiten, die Herausforderungen und Aufgaben methodisch stringenter Forschung auf den Punkt bringen. Diese beiden Metaphern helfen, Methodenfragen im engen Wortsinn von Designfragen zu unterscheiden:
+
+**Erstens das Bild von einer Methode als Instrument oder Werkzeug.** Häufig implizit, häufig aber auch ausdrücklich ist dieses Bild in der Methodenliteratur weit verbreitet. Die Rede ist dann etwa vom Werkzeugkasten der empirischen Sozial- und Bildungsforschung. Der Wert der Metapher von Methoden als Werkzeugen ist, dass sie den Blick auf wichtige Aspekte und Probleme empirischer Forschung lenkt: Ist das Werkzeug **angemessen** -- passt es also zum **Material** oder, umgekehrt, welches Werkzeug passt zu meinem **Gegenstand**? Wie funktioniert das Werkzeug? Wie handhabe ich es korrekt? Die Metapher funktioniert auch als Warnung vor "Maslows Hammer", auch als "Law of the Instrument" bekannt: "If all you have is a hammer, everything looks like a nail!" Auch soll ein Werkzeug natürlich nie zum Selbstzweck werden. Die Entwicklung und Verfeinerung von Werkzeugen ist notwendig und lohnend, aber in letzter Instanz muss eine Forschungsmethode verstanden als Werkzeug dem übergeordneten Ziel dienen, unser Verständnis sozialer Welten zu fördern. 
+
+Neben der Werkzeugmetapher können wir die wörtliche Übersetzung von **Methode als "Vorgehen" aber zweitens auch stärker in die Richtung des Bilds von einem "Weg zu einem Ziel" fassen.** Dieses Bild nimmt die ursprüngliche Bedeutung des altgriechischen "methodos" wörtlich, das sich mit "Weg zu etwas hin" übersetzen lässt. Als Metapher ernst genommen, lenkt dieses Bild die Aufmerksamkeit auf andere Aspekte eines gelingenden Forschungsprozesses als die Vorstellung von Methoden als Werkzeugen: Zunächst muss ein **Ziel** definiert werden, und das möglichst unmissverständlich, gut kommunizierbar und klar (das ist die Rolle von [Forschungsfragen](#forschungsfragen)). Dann geht es darum, mögliche Wege zu diesem Ziel zu skizzieren, wahrscheinliche **Hindernisse und Hürden** im Forschungsprozess zu identifizieren sowie entscheidende Kreuzungspunkte und schwierige Wegstellen zu antizipieren. Je mehr damit zu rechnen ist, dass im Zuge der Reise unvorhergesehene Situationen bewältigt und Entscheidungen getroffen werden müssen, desto mehr werden wir abstrakte und möglichst griffige **Regeln und Kriterien** benötigen, die vor Irrtümern, Umwegen und Sackgassen bewahren. Im Vergleich zur Werkzeugmetapher verweist der buchstäblich und bildlich genommene "Weg zu einem Ziel" auf mehr und vielfältigere Facetten, ist aber zumindest für die Planungsphase auch grobschlächtiger. Wie bei einer Landkarte wird der Forschungsprozess **aus der Vogelperspektive** in den Blick genommen. 
+
+Diese beiden Bilder bringen gleichzeitig zwei **Grundkompetenzen** für empirische Forschung zum Ausdruck. In der aktuellen wird entlang dieser beiden Kompetenzen zwischen **Methodenfragen** im engen Sinn und **Designfragen** unterschieden. Die Rede von zwei Grundkompetenzen ist einerseits als ein Versprechen zu lesen: Wer diese Fertigkeiten ernst nimmt und schult, wird empirische Forschungsprojekte mit größerer Überzeugung, mehr Spaß und mehr Erfolg durchführen. Sie impliziert andererseits aber auch zwei Formen der **Bewertung** bzw. der potenziellen **Kritik** an empirischen Forschungsprojekten: Das wissenschaftliche Fachpublikum wird ein Projekt stets auf beiden Ebenen bewerten: im Hinblick auf seine Grundlogik, seine übergreifende Kohärenz und Schlüssigkeit (Designperspektive) ebenso wie hinsichtlich der sauberen Umsetzung im Detail, hinsichtlich seiner Rigidität und der sauberen Anwendung von Werkzeugen (Methodenperspektive).
+
+Die Unterscheidung von Methoden- und Designfragen ist instruktiv und wichtig. Sie darf aber nicht als Dichotomie missverstanden werden. Methoden- und Designfragen sind nicht scharf zu trennen. Eher handelt es sich um zwei unterschiedliche Perspektiven auf dieselben Prozesse. Jede Methodenfrage wird entsprechend Designaspekte aufweisen, und jede Designfrage kann nur sinnvoll in Kombination mit im engen Sinn methodischen Aspekten diskutiert werden. 
+
 
 ## Drei Grunddesigns
 
-- Vorwissen/Annahmen
-- Voraussetzungen 
-- Generalisierungsstrategie 
-- Häufige Probleme in der Praxis 
+Empirische Forschung zielt auf Verallgemeinerbarkeit. Im Gegensatz zu anderen Praxisfeldern zielen die Erkenntnisinteressen der (Sozial-)Wissenschaften fast immer über die konkret beforschten Fällen und Situationen hinaus. Die "logische" Funktion eines Forschungsdesigns liegt darin, sicherzustellen, dass ein Projekt generalisierbare Aussagen zulässt.  
+
+Für die Sozialwissenschaften lassen sich grob drei Formen der Generalisierung untersdcheiden, die den **drei Grunddesigns sozialwissenschaftlicher Forschung** entsprechen [@devaus2001]: Experiment, Erhebung und Fallstudie. Diese drei Designs zeichnen sich durch ihre je eigene Strategie aus, zu verallgemeinerbaren Aussagen zu kommen [@polit2010]. Jedes der Designs erfordert, dass bestimmte Vorannahmen getroffen werden und bestimmte Voraussetzungen erfüllt sind. Jedes der Designs geht mit je eigenen Qualitätskriterien und Geltungsbedingungen einher. Und jedes trägt auf seine Art zur Herstellung eines Anwendungsbezugs von Forschung bei:
+
+Experimente verfolgen als Generalisierungsziel die Quantifizierung von Effekten [@kirk2013]. In der Isolation von Effekten besteht die methodologische Kernherausforderung. Sie erfordert unter Laborbedingungen durchgeführte, vollständig randomisierte Kontrollgruppendesigns. Experimentelle Designs lassen für sich genommen keine Schlüsse von den untersuchten Fällen auf eine breitere Population, keine Aussagen über die konkreten Mechanismen und Faktoren, die zur Wirksamkeit einer Intervention führen, und keine Einschätzung der realen Effekte einer Maßnahme unter Realbedingungen zu. 
+
+Erhebungen verfolgen als Generalisierungsziel den Schluss von einer Stichprobe auf eine Grundgesamtheit [@dillman2014]. Um gültig zu sein, muss dieser Schluss auf Basis von unter Realbedingungen und randomisiert gezogenen Fällen erfolgen. Erhebungen erlauben für sich genommen keine Aussagen über Kausalitäten. Sie können Informationen zu relevanten hinderlichen und förderlichen Faktoren liefern, aber nicht die zugrundeliegende Wirkrichtung und auch nicht die involvierten Mechanismen benennen. 
+
+Fallstudien verfolgen als Generalisierungsziel die umfassende Bestimmung der Faktoren und Mechanismen, die in ihrem Wechselspiel ein Phänomen konstituieren, über den Weg der systematischen Analyse eines Problems in seiner komplexen Ganzheit [@yin2014; @ylikoski2018]. Um tragfähige Aussagen machen zu können, muss erstens die Auswahl der untersuchten Fälle theoretisch und empirisch begründet sein und muss zweitens durch kombinierten Methodeneinsatz dafür gesorgt werden, dass (dem Anspruch nach: alle) wesentlichen Aspekte identifiziert und in der Analyse berücksichtigt werden. Fallstudien erlauben für sich genommen keine Aussagen über das Ausmaß von Effekten und über die Häufigkeit von bestimmten Konstellationen. 
+
+**Mixed-Methods-Forschung bedeutet bei genauerer Betrachtung häufig (aber nicht immer) auch Mixed-Design-Forschung!** In einem typischen Mixed-Methods-Projekt kann ein Design in ein anderes eingebettet werden (beispielsweise eine Fragebogenerhebung als Teil einer Fallstudie implementiert werden) oder es können auch mehrere Designs parallel eingesetzt werden (zum Beispiel, wenn ein Experiment durchgeführt wird, in dem die Wirksamkeit einer Unterrichtsmethode "unter Laborbedingungen" getestet wird, und zusätzlich in einer Fallstudie die Implementation derselben Maßnahme in "natürlichen" Unterrichtssettings umfassend untersucht wird).  
+
+
+## Was das alles für Mixed Methods bedeutet ...
+
+Die Bedeutung von Designfragen macht sich im Feld der Mixed-Methods-Forschung vielfältig bemerkbar. So ist es letztlich die Grundaufgabe von [Typologien](#typologien), häufige Arbeitsabläufe und -pakete systematisch darzustellen und zu reflektieren. Auch die typischen [Notationssysteme](#notationen) erfüllen letztlich eine Designfunktion: die Grundlogik eines Projekts abzubilden. 
+
+Um ein schlüssiges und fruchtbares Mixed-Methods-Design zu erarbeiten, wird man speziell darauf achten müssen, ...
+
+
+... dass die Forschungsfrage die Projektanliegen passend widerspiegelt
+
+... dass der Gegenstand / die Gegenstände des Projekts geklärt sind
+
+... dass reflektiert wird, welche Generalisierungsziele verfolgt werden und welche Rolle die Logiken der drei Grunddesigns spielen
+
+... dass der Stichprobenlogik bzw. der Kombination verschiedener Stichprobenverfahren Aufmerksamkeit geschenkt wird
+
+... dass klar ist, welche Methoden zum Einsatz kommen
+
+... dass festgelegt ist, wie die verschiedenen Methoden zueinander stehen (Reihenfolge, Priorität)
+
+... dass jede Designkomponente (jede Methode, jedes Arbeitspaket) ein klares Ziel verfolgt
+

@@ -1,18 +1,3 @@
-# Qualitativ versus quantitativ?
+# Qualitativ versus quantitativ? {#qualquan}
 
-## Eine sinnvolle Unterscheidung? Nein 
-
-- Fehlen klarer Abrenzungskriterien
-- Interne Heterogenität 
-
-## Eine sinnlose Unterscheidung? Nein 
-
-- Zielsetzungen konkret
-- Prinzipien
-- Herausforderungen
-- Stärken 
-
-## Rollen im Forschungsprozess 
-
-- Qualitativ explorativ?
-- Triangulation (selber Gegenstand mit selben Ziel aus verschiedenen Perspektiven)
+UNDER CONSTRUCTION!
