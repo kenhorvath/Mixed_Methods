@@ -1,3 +1,37 @@
 # Mixed Methods systematisieren II: Notationen{#notationen}
 
-UNDER CONSTRUCTION! 
+## Ein denkbar einfaches System ...
+
+Neben Typologien haben sich **Notationen** als eine zweite Form durchgesetzt, Mixed-Methods-Design darzustellen. Das bis heute übliche Notationssystem stammt von Morse [@morse1991]. Es besteht aus wenigen Zutaten:
+
+- **QUAL**: bezeichnet eine gleich- oder vorrangige qualitative Komponente
+- **QUAN**: bezeichnet eine gleich- oder vorrangige quantitative Komponente
+- **qual**: bezeichnet eine untergeorndete qualitative Komponente
+- **quan**: bezeichnet eine untergeordnete quantitative Komponente
+- **+**: bedeutet, dass Komponenten parallel (unabhängig voneinander) ablaufen
+- **->**: bedeutet, dass eine Komponente auf die andere folgt  
+
+Mit diesem einfachen Vokabular lässt sich so gut wie jedes Mixed-Methods-Projekt abbilden:
+
+- Ein "sequenziell explanatives Design" lässt sich mit **QUAN -> QUAL** beschreiben
+- Ein quantitativ ausgerichtetes "embedded Design" wäre mit **QUAN + qual** charakterisiert
+- Ein mehrphasiges Projekt könnte z.B. so aussehen: **(QUAN + QUAL) -> QUAN -> QUAL**
+
+Der Operator "->" wird in der Literatur zweideutig verwendet. Manche AutorInnen bringen mit ihm einfach eine *zeitliche Reihenfolge* zum Ausdruck. Andere reservieren ihn für Fälle, in denen eine Komponente *logisch* von der anderen *abhängt*. Ich halte die zweite Lesart für die schlüssigere und sinnvollere, aber beide sind verbreitet. 
+
+## Vorteile und Schwierigkeiten des Notationssystems
+
+Die Vorteile dieses Notationssystems liegen in seiner Einfachheit und seiner Flexibilität. Diese haben natürlich ihren Preis. So wird in der Notationsschreibweise nicht sichtbar, an welchen Punkten und zu welchen Zwecken Methoden kombiniert werden -- Aspekte, die in Typologien sehr wohl zum Ausdruck gebracht werden können. 
+
+Es ist daher absolut entscheidend, dass jede Darstellung eines Mixed-Methods-Designs mittels Notation diskursiv gerahmt wird. Die Ausgestaltung jedes einzelnen Elements muss ebenso erläutert werden wie die Gründe für ihre Kombination und die exakten Punkte, an denen die Methodenintegration stattfindet (am Ende in der Phase der zusammenführenden Interpretation oder schon davor in der Datenerhebung oder während der Analyse?).
+
+## Die entscheidende Erläuterung: Gründe für die Methodenintegration
+
+Die wichtigste rahmende Erläuterung, die jede Darstellung via Notation erfordert, betrifft die Gründe für die Kombination von qualitativen und quantitativen Methoden. In anderen Worten: jedes "+" und jedes "->" verlangt nach einer verbalen Unterfütterung. 
+Eine hilfreiche und praxisverankerte Auflistung von Gründen für die Kombination von Methoden hat [Bryman 2016](https://people.utm.my/uzairiah/wp-content/blogs.dir/1541/files/2016/11/Qualitative-Research-2006-Bryman-97-113.pdf) vorgeschlagen [@bryman2016a; siehe dazu auch @schoonenboom2017]. Er unterscheidet beispielsweise die Motivation, einen Gegenstand aus verschiedenen Perspektiven zu untersuchen, von der Zielsetzung, eine Methode zu nutzen, um das Sampling für eine andere zu fundieren. 
+
+Die Liste von Bryman ist als erste Orientierung hilfreich. Generell zeigt sie aber wieder die zentrale Schwierigkeit jeder Systematisierung von Mixed-Methods: die Szenarien sind zu vielfältig, als das eine einfache und vollständige Schematisierung möglich wäre. 
+
+**Daher lautet die zentrale Empfehlung**: Die Gründe für die Kombination von Methoden sollten so konkret wie möglich reflektiert und dargestellt werden, immer zugschnitten auf das das jeweilige Projekt. 
+
+Qualitative Methoden können etwa eingesetzt werden, "um zu validieren", was quantitativ herausgefunden wurde, oder auch "um zu erklären", wie ein quantitatives Muster zustande kommt. Sie können auch zum Einsatz kommen, "weil bisher wenig über einen Gegenstand bekannt ist", der eigentlich quantitativ untersucht werden soll. Quantitative Methoden können verwendet werden, "um die Häufigkeit zu eruieren", mit der ein qualitativ identifiziertes Phänomen auftritt, oder "um zu überprüfen", ob eine qualitativ entwickelte Hypothese auch statistisch hält. 
