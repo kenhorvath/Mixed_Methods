@@ -1,3 +1,101 @@
 # Qualitativ versus quantitativ? {#qualquan}
 
-UNDER CONSTRUCTION!
+Unterscheidung definiert das Feld 
+
+Überraschend unklar und umstritten 
+
+## Eine irreführende Unterscheidung 
+
+Häufige Erzählung: 
+Eine Spalte: nomologisch, quantitativ, positivistisch, erklärend
+Andere Spalte: hermeneutisch, konstruktivistisch, verstehend, interpretativ 
+
+Wird den Unterschieden innerhalb der Felder nicht gerecht 
+
+Wird den Überlappungsbereichen nicht gerecht 
+
+Keine scharfe Trennlinie, auf die sich alle einigen könnten 
+
+Zusammenhängende Aspekte: Wissenschaftstheoretische Bezüge 
+
+
+## Eine sinnvolle Unterscheidung 
+
+Bestehende und gewachsene Traditionen und Felder; Vorstellungen sinnvoller und guter Forschung, Glaubwürdigkeit, Relevanz, Ziele 
+
+Erfahrungsschatz und Erwartungshorizonte 
+
+Sich mit diesen verschiedenen Logiken, zu forschen, vertraut machen 
+
+Hilft, Ziele konkreter zu definieren
+
+Hilft, über Gegenstände nachzudenken
+
+Hilft, über Forschungsprozess nachzudenken 
+
+
+Epistemische Ziele für qualitative Methoden 
+
+Verstehen
+
+Typologisieren
+
+Rekonstruieren
+
+Phänomene in ihrer Komplexität erschließen
+
+
+Epistemische Ziele für quantitative Methoden 
+
+Häufigkeit und Verteilung 
+
+Monitoring und Veränderungen über die Zeit 
+
+Isolierte Kausalzusammenhänge
+
+
+Gegenstände
+
+In allen relevanten Hinsichten bekannt / In Grundzügen erst zu erschließen 
+
+Als in dimensionaler Struktur stabile und bekannte Konstrukte gedacht / Als komplexe, kontextualisierte und wandelbare Phänomene gedacht
+
+
+Probleme, Prozesse und Prinzipien
+
+Herausforderungen, die mit diesen Zielen verbunden sind und Prinzipien, nach denen Forschungsprozesse gestaltet und bewertet werden 
+
+Forschungsstrategien für qualitative Methoden
+
+Flexibel
+
+Zyklisch
+
+Begründet 
+
+Forschungsstrategische Prinzipien für quantitative Methoden
+
+Standardisiert 
+
+Linear 
+
+Randomisiert 
+
+
+
+## "Weil" und "Um zu" 
+
+Weil-Motive: die Methodenwahl ergibt sich aus dem Gegenstand
+
+Qualitativ, weil keine Standardisierung möglich ist
+
+Quantitativ, weil Vergleichbarkeit über Kontexte und Zeitpunkte hinweg angestrebt wird
+
+Um-zu-Motive: die Methodenwahl informiert die Art und Weise, wie der Gegenstand konstruiert wird
+
+Qualitativ, um einen quantitativen Befund zu validieren
+
+Qualitativ/quantitativ, um eine quantitative/qualitative Studie zu ergänzen
+
+Quantitativ, um die Verteilung von qualitativ identifizierten Mustern zu festzustellen
+
