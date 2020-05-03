@@ -1,101 +1,55 @@
 # Qualitativ versus quantitativ? {#qualquan}
 
-Unterscheidung definiert das Feld 
+Die Unterscheidung zwischen qualitativen und quantitativen Methoden definiert das Feld der Mixed-Methods-Forschung. In den Sozialwissenschaften haben wir uns daran gewöhnt, mit dieser Unterscheidung zu arbeiten. Methodeneinführungen (Vorlesungen und Seminare ebenso wie Lehrbücher) sind in aller Regel in quantitative und qualitative Elemente aufgeteilt. Fachzeitschriften haben häufig eine relativ klare Ausrichtung auf qualitative oder quantitative Forschung, und auch Forschende ordnen sich gerne selbst einem der beiden Lager zu. 
 
-Überraschend unklar und umstritten 
+Ob die Unterscheidung zwischen qualitativ und quantitativ aber überhaupt sinnvoll ist, ist eine Frage der Tiefenschärfe. Bei etwas näherer Betrachtung scheint die auf den ersten Blick so klare Unterscheidung [brüchig und irreführend](#unterscheidung_irrefuehrend); tritt man noch etwas näher heran, gewinnt sie aber doch wieder an Kontur und [erscheint entsprechend sinnvoll](#unterscheidung_sinnvoll). Für die Gestaltung von Mixed-Methods-Projekten muss vor allem die Kompetenz trainiert werden, sich mit klaren *Zielen und Zwecken* auf beide Methodenfelder zu beziehen. 
 
-## Eine irreführende Unterscheidung 
+## Eine irreführende Unterscheidung {#unterscheidung_irrefuehrend}
 
-Häufige Erzählung: 
-Eine Spalte: nomologisch, quantitativ, positivistisch, erklärend
-Andere Spalte: hermeneutisch, konstruktivistisch, verstehend, interpretativ 
+Einer fast schon klassisch zu nennenden Erzählung folgend lassen sich die Sozialwissenschaften in zwei Bereiche teilen, die einander in Lehrbüchern gerne tabellarisch gegenübergestellt werden. In der einen Spalte finden sich dann *nomologische* ("gesetzesorientierte") Zugänge, die *erklären* wollen, indem sie *Hypothesen prüfen* und sich alles in allem am Vorbild der *Naturwissenschaften* orientieren, in der anderen *hermeneutische* Perspektiven, die *verstehen* und/oder *entdecken* wollen und sich als *Geisteswissenschaften* sehen. Der ersten Spalte wird ein *positivistisches* Weltbild zugeschrieben, der zweiten ein *konstruktivistisches*. Die erste soll überwiegend auf *Large-n-Studien*, die zweite auf *Small-n-Studien* hinauslaufen. 
 
-Wird den Unterschieden innerhalb der Felder nicht gerecht 
+Diese Unterscheidungen sind irreführend und werden den aktuellen Sozialwissenschaften nicht gerecht. Sie stammen großteils aus einer Zeit, in der sich die neuen, mit dem Gegenstand "Gesellschaft" betrauten Wissenschaften erst finden und als akademische Disziplinen institutionalisieren mussten. 
 
-Wird den Überlappungsbereichen nicht gerecht 
+Vor allem sind sie nicht als Kriterien geeignet, nach denen qualitative von quantitativen Zugängen klar voneinander zu unterscheiden wären. Qualitative Studien können ebenso dazu dienen, soziale Phänomene *zu erklären*, wie quantitative darauf hinauslaufen können, sie besser *zu verstehen*; qualitative Methoden müssen routinemäßig mit *großen Datenmengen* umgehen, ebenso wie auch *kleine Stichproben* und Datenmengen quantifiziert werden können usw. usw usw. Keines der Kriterien definiert eine sinnvolle Trennlinie. 
 
-Keine scharfe Trennlinie, auf die sich alle einigen könnten 
+Nicht nur sind die beiden "Lager" nicht scharf voneinander zu trennen, auch ist jedes für sich selbt betrachtet *alles andere als homogen*. Im Gegenteil -- sie differenzieren sich "intern" zusehends aus und mit jeder Weiterentwicklung ergeben sich neue Übergänge und Bezüge zwischen ihnen. So gewinnen in der quantitativen Forschung aktuell explorative und "datengetriebene" Verfahren, die eher "qualitativen" Logiken folgen, mit dem Aufkommen von Big Data massiv an Bedeutung. Gleichzeitig öffnen sich qualitative Verfahren zunehmend in Richtung digitaler Methoden der Identifikation und Aufbereitung von Texten und anderen Dokumenten. 
 
-Zusammenhängende Aspekte: Wissenschaftstheoretische Bezüge 
+Für die Mixed-Methods-Forschung bedeutet die Brüchigkeit und Unklarheit der Unterscheidung zwischen qualitativen und quantitativen Methoden, dass keine holzschnittartigen Vorgehensweisen möglich sind. **Wie und wozu welche Methoden kombiniert werden, muss stets konkret bestimmt und reflektiert werden**. Dennoch ist es sinnvoll, die Unterscheidung ernst zu nehmen, weil sich aus ihr wichtige Hinweise zu bewährten (wenn auch nicht rezeptartig vorgefertigten) Vorgehensweisen, Glaubwürdigkeitskriterien und Qualitätsstandards ergeben.
 
 
-## Eine sinnvolle Unterscheidung 
+## Eine sinnvolle Unterscheidung {#unterscheidung_sinnvoll}
 
-Bestehende und gewachsene Traditionen und Felder; Vorstellungen sinnvoller und guter Forschung, Glaubwürdigkeit, Relevanz, Ziele 
+Die Unterscheidung zwischen qualitativen und quantitativen Methoden ist bei näherer Betrachtung trotz aller Unschärfen *sinnvoll und nützlich*, weil sich entlang von ihr entscheidende forschungsmethodische Weiterentwicklungen und kollektive Lernprozesse abgespielt haben. Auf beiden Seiten der Trennlinie (und natürlich, wenn auch seltener, über diese hinweg) wurden konkrete Erfahrungen gesammelt, Lehren daraus gezogen, methodische Vorgehensweisen entwickelt und verbessert und Standards guter Forschung formuliert. Diese gemeinsamen **Wissens- und Kompetenzbestände** sind eine wichtige Ressource. Sie definieren aber auch **Qualitätskriterien und Erwartungshaltungen**, die man -- wenn man heutzutage empirisch forscht -- kennen muss und natürlich auch erfüllen sollte. 
 
-Erfahrungsschatz und Erwartungshorizonte 
+Dieser Erfahrungsschatz und diese Erwartungshorizonte haben sich für qualitative und quantitative Forschung jeweils weitgehend getrennt voneinander entwickelt. So haben sich doch distinkte **Forschungsstile** herausgebildet, die je eigene Ziele verfolgen, die ihre Gegenstände unterschiedlich fassen und die zu verschiedenen Vorstellungen "guter" Forschung führen. 
 
-Sich mit diesen verschiedenen Logiken, zu forschen, vertraut machen 
+### Wissenschaftliche Zielsetzungen
 
-Hilft, Ziele konkreter zu definieren
+Wie im Abschnitt zu [Gegenständen und Zielen](#gegenstaendeziele) ausgeführt, ist die klare Benennung von Zielen eine der wichtigsten Herausforderungen für die Gestaltung eines produktiven Forschungsdesigns. Im Kontext von Mixed Methods besteht die Kunst und entscheidende Aufgabe darin, einzelne Methoden/Projektkomponenten mit ganz konkreten Zielsetzungen zu verknüpfen. Zu jeder Komponente muss ein *um zu* oder ein *weil* formuliert werden. 
 
-Hilft, über Gegenstände nachzudenken
+Die folgende Auflistung an möglichen Zielen ist bei Weitem nicht vollständig. Sie illustriert aber, worum es geht: Für die jeweilige Komponente ein Ziel so definieren, (1.) dass innerhalb dieser Komponente klar ist, worum es geht, und (2.) dass klar wird, wie es auf die anderen Projektteile bezogen ist. Über die Zeit haben sich für qualitative wie auch für quantitative Methoden charakteristische Zielsetzungen ergeben -- Ziele, für die sie entwickelt wurden, und Ziele, für die sie sich jeweils bewährt haben: 
 
-Hilft, über Forschungsprozess nachzudenken 
+Im Rahmen eines Mixed-Methodsprojekts können **qualitative Methoden** eingesetzt werden, *um zu rekonstruieren*, wie ein quantitativ festgestelltes Muster zustandekommt. Oder qualitative Methoden werden verwendet, *um inhaltlich bedeutsame Typen zu identifizieren* / *um zu typologisieren*; in einer zweiten quantitativen Projektphase könnte dann die Häufigkeit jedes identifizierten Typs bestimmt werden. Oder qualitative Methoden werden eingesetzt, *weil über ein Phänomen wenig bekannt ist* und es zunächst darum geht, *es in seiner ganzen Komplexität zu erschließen*. Oder qualitative Methoden werden eingesetzt, *weil subjektive Sichtweisen* auf ein Phänomen *verstanden* werden sollen. 
 
+**Quantitative Methoden** können eingesetzt werden, um die *Häufigkeit* oder die *Verteilung* von Phänomenen oder Merkmalen festzustellen, die sich aus einer qualitativen Studie ergeben. Oder sie werden eingesetzt, um *regelmäßig auftretende Muster* zu *identifizieren* -- Muster, die dann zum Ausgangspunkt für eine qualitative Vertiefungsstudie dienen können. Oder sie werden verwendet, *um Hypothesen zu überprüfen*, die in  einer qualitativen Studie entwickelt wurden. Oder sie werden verwendet, *um bestimmte Variablen* über die Zeit oder zwischen verschiedenen Kontexten *standardisiert zu vergleichen*. 
 
-Epistemische Ziele für qualitative Methoden 
+### Gegenstände bestimmen 
 
-Verstehen
+Ein wesentlicher Unterschied zwischen qualitativen und quantitativen Methoden besteht in der Art und Weise, wie die Gegenstände von Sozialforschung bzw. das Verhältnis zu diesen konzipiert werden. 
 
-Typologisieren
+**Qualitative Forschung** betont an sozialen Gegenständen die instabilen, komplexen und kontextabhängigen Aspekte. Was genau unter einem Phänomen zu verstehen ist, wird systematisch offen gehalten. Zu klären, was ein bestimmtes soziales Phänomen ausmacht, ist Auftrag der Forschung, ebenso wie die Klärung davon, wie es zustandekommt, wie es je nach Kontext variiert, seine Form und Funktion verändert ... Qualitative Forschung ist im Umkehrschluss dann geeignet (und notwendig), wenn über einen Gegenstand noch wenig bekannt ist oder dieser erst sehr unscharf definiert ist. 
 
-Rekonstruieren
-
-Phänomene in ihrer Komplexität erschließen
-
-
-Epistemische Ziele für quantitative Methoden 
-
-Häufigkeit und Verteilung 
-
-Monitoring und Veränderungen über die Zeit 
-
-Isolierte Kausalzusammenhänge
+**Quantitative Forschung** arbeitet im Kontrast dazu mit Gegenständen, die in allen relevanten Hinsichten als bekannt vorausgesetzt werden. Das ist die Voraussetzung dafür, dass theoretische Konzepte operationalisiert werden können. Um sinnvoll standardisierbar zu sein, müssen Gegenstände auch als über die Zeit und über verschiedene Kontexte (zumindest relativ) stabil angesehen werden können.
 
 
-Gegenstände
+### Forschungsprozesse gestalten 
 
-In allen relevanten Hinsichten bekannt / In Grundzügen erst zu erschließen 
+Die je unterschiedlichen Arten von Zielen und die verschiedenen Verständnisse von sozialwissenschaftlichen Gegenständen führen zu Differenzen in den Prinzipien und Kriterien, nach denen Forschungsprozesse gestaltet und bewertet werden. 
 
-Als in dimensionaler Struktur stabile und bekannte Konstrukte gedacht / Als komplexe, kontextualisierte und wandelbare Phänomene gedacht
+**Idealvorstellungen guter (überzeugender und glaubwürdiger) Forschung**: *Quantitative Forschung* verfolgt das (nie ganz zu erreichende) Ideal von *maximaler Kontrolle* über alle Aspekte des Forschungsprozesses. Ohne diese Kontrolle ist keine Standardisierung möglich, die für Quantifizierungen unumgänglich ist. Die messtheoretisch inspirierte Zielvorgabe lautet *Objektivität*. *Qualitative Forschung* muss sich demgegenüber stärker dem Ideal der *Flexibilität* verschreiben -- anders ist die Offenheit gegenüber den Komplexitäten, Kontextualitäten und Instabilitäten ihrer Gegenstände nicht realisierbar. Forschung muss freilich trotz aller Flexibilität belastbare Befunde erlauben und glaubwürdig sein -- angestrebt wird also zumindest *intersubjektive Nachvollziehbarkeit*. 
 
+**Organisation des Forschungsprozesses**: *Quantitative Forschungsprozesse* sind in aller Regel *linear* organisiert: Arbeitspakete sind in einer klaren und logischen Reihenfolge abzuarbeiten. So folgt eine Fragebogenerhebung einem klaren Ablaufplan von der Gestaltung des Fragebogens und der Erstellung eines Stichprobenplans über den Pretest und die Feldphase hin zu Datenaufbereitung und statistischer Analyse. Quantitative Forschung ist entsprechend weitgehend *standardisiert* -- nicht nur ihre Instrumente, auch ihre Abläufe sind weitgehend festgelegt. *Qualitative Forschung* läuft im Vergleich dazu *zyklisch* ab. Idealerweise gibt es von Beginn bis relativ knapp vor dem Ende einen fließenden Wechsel zwischen den verschiedenen Aspekten von Datenerhebung und Datenanalyse. Dieser Prozess ist definitionsgemäßg *unstandardisiert*, jede Festlegung vorweg droht, die Gegenstandsangemessenheit einzuschränken. 
 
-Probleme, Prozesse und Prinzipien
+**Stichprobenlogik**: Goldstandard für die *quantitative Stichprobengestaltung* ist die *Randomisierung*. Das gilt sowohl für Erhebungen, die auf Repräsentativität abzielen, als auch für Experimente, die interne Validität maximieren wollen. In der Praxis wird häufig von diesem Ideal abgewichen; diese meist nicht zu vermeidenden Abweichungen gilt es zu reflektieren. Für *qualitative Forschung* gilt ein anderer Goldstandard: Die Auswahl von Fällen und Materialien erfolgt idealerweise immer *begründet* bzw. *theoriegeleitet*. 
 
-Herausforderungen, die mit diesen Zielen verbunden sind und Prinzipien, nach denen Forschungsprozesse gestaltet und bewertet werden 
-
-Forschungsstrategien für qualitative Methoden
-
-Flexibel
-
-Zyklisch
-
-Begründet 
-
-Forschungsstrategische Prinzipien für quantitative Methoden
-
-Standardisiert 
-
-Linear 
-
-Randomisiert 
-
-
-
-## "Weil" und "Um zu" 
-
-Weil-Motive: die Methodenwahl ergibt sich aus dem Gegenstand
-
-Qualitativ, weil keine Standardisierung möglich ist
-
-Quantitativ, weil Vergleichbarkeit über Kontexte und Zeitpunkte hinweg angestrebt wird
-
-Um-zu-Motive: die Methodenwahl informiert die Art und Weise, wie der Gegenstand konstruiert wird
-
-Qualitativ, um einen quantitativen Befund zu validieren
-
-Qualitativ/quantitativ, um eine quantitative/qualitative Studie zu ergänzen
-
-Quantitativ, um die Verteilung von qualitativ identifizierten Mustern zu festzustellen
-
+Gerade die unterschiedlichen Stichprobenlogiken sind ein guter Ansatzpunkt, um die Logiken qualitativer und quantitativer Forschung in ihren vielfältigen Kontrasten verstehen zu lernen. Vor allem die qualitative Stichprobengestaltung macht weniger erfahrenden Forschenden häufig Probleme. Viele reflexartig angestellten Überlegungen zielen am eigentlichen Problem vorbei. So ist die Größe einer Stichprobe für sich genommen wenig in qualitativen Kontexten nicht aussagekräftig. Wichtig ist nicht, wie viele Personen beispielsweise interviewt werden, sondern wie die Auswahl zustandekommt. Eine "gute" Stichprobe deckt alle relevanten Konstellationen an einflussreichen Faktoren ab (umfasst also beispielsweise verschiedene Altersgruppen, biographische Hintergründe, politische Einstellungen ...). Welche Faktoren wichtig sind, kann entweder theoriegestützt vermutet oder aus vorangegangenen Forschungsphasen abgeleitet werden. Entlang von für relevant gehaltenen Faktoren, Kriterien oder Dimensionen werden so lange neue Fälle gesucht, bis eine "theoretische Sättigung" eintritt: bis also keine nennenswerten neuen Einsichten mehr zustande kommen. Die Fallauswahl wird dabei mal nach dem Prinzip des minimalen, mal nach jenem des maximalen Kontrasts vorgehen. Mal werden für sehr "typisch" gehaltene Fälle fokussiert, mal wird ein Phänomen eher von "extremen" bzw. "untypischen" Fällen ausgehend erarbeitet. 
