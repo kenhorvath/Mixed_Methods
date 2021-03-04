@@ -12,7 +12,7 @@ Im Zuge dieser *begründeten und reflektierten Kombination von Methoden* kommen 
 
 - Im Vergleich zum nach wie vor starken "Werkzeugkasten-Denken" in anderen Bereichen der Methodenlehre und -entwicklung rückt im Feld von Mixed Methods der Fokus auf **Designfragen** -- und damit auch auf **grundlegende Logiken** und **wissenschaftstheoretische Grundlagen** empirischer Forschung.
 
-- Die Orientierung auf Angemessenheit und Designfragen spiegelt sich in der expliziten Anerkennung der **Rolle von Forschungsfragen** wider. In kaum in einem anderen Bereich der sozialwissenschaftlichen Methodenlandschaft wird diesem Aspekt vergleichbar viel Aufmerksamkeit geschenkt. 
+- Die Orientierung auf Angemessenheit und Designfragen spiegelt sich in der expliziten Anerkennung der **Rolle von Forschungsfragen** wider. In kaum einem anderen Bereich der sozialwissenschaftlichen Methodenlandschaft wird diesem Aspekt vergleichbar viel Aufmerksamkeit geschenkt. 
 
 Diese und andere Eigenheiten verweisen auf sozialwissenschaftliche Grundkompetenzen, für die in der traditionellen Methodenlehre in der Regel relativ wenig Zeit bleibt. Der Zweck der Beschäftigung mit Mixed Methods liegt daher nicht zuletzt darin, diese oft vernachlässigten **Kompetenzen zu trainieren**, selbst wenn aktuell an keinem eigenen qualitativ-plus-quantitativen Forschungsprojekt gebastelt wird. Denn erstens tragen diese Fertigkeiten auch in "rein qualitativen" und "rein quantitativen" Projekten zur bewussten Gestaltung von kohärenten und produktiven Forschungsprozessen bei. Zweitens geht es in den Sozialwissenschaften auch darum, mit den Forschungsarbeiten anderer umgehen zu können. Mixed Methods stehen in diesem Sinn auch für die Aneignung einer **Rezeptionsfertigkeit**: verstehen, was andere Forschende tun, und sich aktiv und kompetent auf ihre Ergebnisse beziehen können. 
 
@@ -38,7 +38,7 @@ Die Kapitel dieses Skriptums tasten sich von eher abstrakten Grundlagenfragen sc
 
 8. **Varianten der Methodenintegration**: Anhand konkreter Beispiele lassen sich die verschiedenen Varianten leicht erfassen, wie in einem Forschungsprozess Methoden sinnvoll kombiniert werden können. Eine der wichtigsten Entscheidungen betrifft den Zeitpunkt der Integration: während der Datenproduktion, in der Phase der Datenanalyse oder im Zuge der Präsentation und Rahmung von Ergebnissen. 
 
-9. **Mixed Methods ohne Mixing**: Für kleinere Forschungsprojekte -- etwa für eine Bachelor- oder Masterarbeit -- ist es kaum realistisch machbar, mehrere Forschungsmethoden konsequent einzusetzen. Das bedeutet aber nicht, dass man sich nicht von Mixed Methods inspirieren lassen kann. Es gibt verschiedene Wege, "sekundäre" Mixed-Methods-Projekte umzusetzen. 
+9. [**Mixed Methods ohne Mixing**](#ohnemixing): Für kleinere Forschungsprojekte -- etwa für eine Bachelor- oder Masterarbeit -- ist es kaum realistisch machbar, mehrere Forschungsmethoden konsequent einzusetzen. Das bedeutet aber nicht, dass man sich nicht von Mixed Methods inspirieren lassen kann. Es gibt verschiedene Wege, "sekundäre" Mixed-Methods-Projekte umzusetzen. 
 
 10. **Wissenschaftstheoretische Grundlagen -- ein Primer**: Im Vergleich zu traditionellen Feldern der Methodenentwicklung und Methodenlehre zeichnet sich das Feld der Mixed Methods auch durch eine erhöhte Sichtbarkeit von wissenschaftstheoretischen Fragen aus. Charakteristisch ist in diesem Zusammenhang, dass verschiedene epistemologische Programme als Bezugspunkte anerkannt werden. Ein grober Überblick hilft, sich in diesem Feld selbstbewusst zu bewegen. 
 
