@@ -34,11 +34,4 @@ Die Kapitel dieses Skriptums tasten sich von eher abstrakten Grundlagenfragen sc
 
 6. [**Mixed Methods systematisieren II -- Notationen**](#notationen): Notationen sind neben Typologien eine zweite Möglichkeit, Mixed Methods systematisch darzustellen. Im Vergleich zu Typologien legen Notationen stärkeres Gewicht auf die grundlegende Logik eines Projekts. Sie sind zudem leicht zu verstehen und damit auch leicht zu kommunizieren. 
 
-7. **Mixed Methods systematisieren III -- Visualisierung**: Mixed-Methods-Projekte sind in aller Regel mehrstufig -- sie sind also in mehrere Komponenten gegliedert, die häufig in einer (mehr oder weniger zwingendenden) logischen Reihenfolge abzuarbeiten sind. Visualisierungen helfen, den Überblick über diese verwobenen Prozesse zu behalten. 
-
-8. **Varianten der Methodenintegration**: Anhand konkreter Beispiele lassen sich die verschiedenen Varianten leicht erfassen, wie in einem Forschungsprozess Methoden sinnvoll kombiniert werden können. Eine der wichtigsten Entscheidungen betrifft den Zeitpunkt der Integration: während der Datenproduktion, in der Phase der Datenanalyse oder im Zuge der Präsentation und Rahmung von Ergebnissen. 
-
-9. [**Mixed Methods ohne Mixing**](#ohnemixing): Für kleinere Forschungsprojekte -- etwa für eine Bachelor- oder Masterarbeit -- ist es kaum realistisch machbar, mehrere Forschungsmethoden konsequent einzusetzen. Das bedeutet aber nicht, dass man sich nicht von Mixed Methods inspirieren lassen kann. Es gibt verschiedene Wege, "sekundäre" Mixed-Methods-Projekte umzusetzen. 
-
-10. **Wissenschaftstheoretische Grundlagen -- ein Primer**: Im Vergleich zu traditionellen Feldern der Methodenentwicklung und Methodenlehre zeichnet sich das Feld der Mixed Methods auch durch eine erhöhte Sichtbarkeit von wissenschaftstheoretischen Fragen aus. Charakteristisch ist in diesem Zusammenhang, dass verschiedene epistemologische Programme als Bezugspunkte anerkannt werden. Ein grober Überblick hilft, sich in diesem Feld selbstbewusst zu bewegen. 
-
+8. [**Mixed Methods ohne Mixing**](#ohnemixing): Für kleinere Forschungsprojekte -- etwa für eine Bachelor- oder Masterarbeit -- ist es kaum realistisch machbar, mehrere Forschungsmethoden konsequent einzusetzen. Das bedeutet aber nicht, dass man sich nicht von Mixed Methods inspirieren lassen kann. Es gibt verschiedene Wege, "sekundäre" Mixed-Methods-Projekte umzusetzen. 
